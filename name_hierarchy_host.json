@@ -1,0 +1,2279 @@
+{
+  "Bacteria": {
+    "Pseudomonadota": {
+      "Gammaproteobacteria": {
+        "Enterobacterales": {
+          "Enterobacteriaceae": {
+            "Escherichia": {
+              "Escherichia coli": {},
+              "Escherichia fergusonii": {},
+              "Escherichia sp.": {},
+              "Escherichia sp. MOD1-EC6098": {}
+            },
+            "Salmonella": {
+              "Salmonella enterica": {},
+              "Salmonella sp.": {}
+            },
+            "Candidatus Hamiltonella": {
+              "Candidatus Hamiltonella defensa": {}
+            },
+            "Klebsiella": {
+              "Klebsiella sp. 390": {},
+              "Klebsiella pneumoniae": {},
+              "Klebsiella sp.": {},
+              "Klebsiella aerogenes": {},
+              "Klebsiella oxytoca": {},
+              "Klebsiella quasipneumoniae": {},
+              "Klebsiella michiganensis": {},
+              "Klebsiella variicola": {}
+            },
+            "Cronobacter": {
+              "Cronobacter sakazakii": {},
+              "Cronobacter malonaticus": {},
+              "Cronobacter turicensis": {},
+              "Cronobacter sp.": {},
+              "Cronobacter dublinensis": {},
+              "Cronobacter muytjensii": {},
+              "Cronobacter condimenti": {}
+            },
+            "Shigella": {
+              "Shigella boydii": {},
+              "Shigella sonnei": {},
+              "Shigella flexneri": {},
+              "Shigella dysenteriae": {},
+              "Shigella sp.": {}
+            },
+            "Enterobacter": {
+              "Enterobacter cloacae": {},
+              "Enterobacter cancerogenus": {},
+              "Enterobacter sp. CT7": {},
+              "Enterobacter sp.": {},
+              "Enterobacter kobei": {},
+              "Enterobacter asburiae": {},
+              "Enterobacter hormaechei": {},
+              "Enterobacter ludwigii": {}
+            },
+            "Citrobacter": {
+              "Citrobacter rodentium": {},
+              "Citrobacter freundii": {},
+              "Citrobacter sp. TM1552": {},
+              "Citrobacter sp.": {},
+              "Citrobacter koseri": {},
+              "Citrobacter amalonaticus": {},
+              "Citrobacter braakii": {},
+              "Citrobacter portucalensis": {}
+            },
+            "Shimwellia": {
+              "Shimwellia blattae": {}
+            },
+            "Enterobacteriaceae bacterium bta3-1": {},
+            "Lelliottia": {
+              "Lelliottia sp. GL2": {}
+            },
+            "Kosakonia": {
+              "Kosakonia cowanii": {}
+            },
+            "Leclercia": {
+              "Leclercia adecarboxylata": {}
+            },
+            "Raoultella": {
+              "Raoultella ornithinolytica": {},
+              "Raoultella sp.": {},
+              "Raoultella planticola": {}
+            },
+            "Plesiomonas": {
+              "Plesiomonas sp.": {},
+              "Plesiomonas shigelloides": {}
+            },
+            "Buttiauxella": {
+              "Buttiauxella sp.": {}
+            },
+            "Cedecea": {
+              "Cedecea davisae": {}
+            },
+            "Kluyvera": {
+              "Kluyvera cryocrescens": {}
+            }
+          },
+          "Yersiniaceae": {
+            "Yersinia": {
+              "Yersinia enterocolitica": {},
+              "Yersinia pestis": {},
+              "Yersinia intermedia": {},
+              "Yersinia bercovieri": {},
+              "Yersinia kristensenii": {},
+              "Yersinia frederiksenii": {},
+              "Yersinia mollaretii": {},
+              "Yersinia aleksiciae": {},
+              "Yersinia pseudotuberculosis": {},
+              "Yersinia similis": {},
+              "Yersinia wautersii": {},
+              "Yersinia ruckeri": {},
+              "Yersinia sp. (in: enterobacteria)": {}
+            },
+            "Serratia": {
+              "Serratia marcescens": {},
+              "Serratia rubidaea": {},
+              "Serratia sp. ATCC 39006": {},
+              "Serratia plymuthica": {},
+              "Serratia sp. (in: enterobacteria)": {},
+              "Serratia sp. OS31": {},
+              "Serratia fonticola": {},
+              "Serratia liquefaciens": {}
+            },
+            "Rahnella": {
+              "Rahnella woolbedingensis": {}
+            }
+          },
+          "Bruguierivoracaceae": {
+            "Sodalis": {
+              "Sodalis glossinidius": {}
+            }
+          },
+          "Morganellaceae": {
+            "Morganella": {
+              "Morganella morganii": {},
+              "Morganella sp. (in: enterobacteria)": {}
+            },
+            "Providencia": {
+              "Providencia stuartii": {},
+              "Providencia sp.": {},
+              "Providencia rettgeri": {}
+            },
+            "Proteus": {
+              "Proteus mirabilis": {},
+              "Proteus vulgaris": {},
+              "Proteus penneri": {},
+              "Proteus sp. (in: enterobacteria)": {}
+            },
+            "Arsenophonus": {
+              "Arsenophonus sp.": {},
+              "Arsenophonus nasoniae": {},
+              "Candidatus Arsenophonus arthropodicus": {}
+            }
+          },
+          "Erwiniaceae": {
+            "Erwinia": {
+              "Erwinia amylovora": {},
+              "Erwinia pyrifoliae": {},
+              "Erwinia sp.": {},
+              "Erwinia rhapontici": {},
+              "Erwinia tracheiphila": {},
+              "Erwinia horticola": {},
+              "Erwinia persicina": {},
+              "Erwinia billingiae": {},
+              "Erwinia iniecta": {},
+              "Erwinia tasmaniensis": {}
+            },
+            "Pantoea": {
+              "Pantoea agglomerans": {},
+              "Pantoea sp.": {},
+              "Pantoea dispersa": {},
+              "Pantoea deleyi": {}
+            }
+          },
+          "Hafniaceae": {
+            "Hafnia": {
+              "Hafnia alvei": {},
+              "Hafnia paralvei": {},
+              "Hafnia sp.": {}
+            },
+            "Edwardsiella": {
+              "Edwardsiella ictaluri": {},
+              "Edwardsiella anguillarum": {},
+              "Edwardsiella tarda": {},
+              "Edwardsiella piscicida": {}
+            }
+          },
+          "Pectobacteriaceae": {
+            "Pectobacterium": {
+              "Pectobacterium atrosepticum": {},
+              "Pectobacterium carotovorum": {},
+              "Pectobacterium sp.": {},
+              "Pectobacterium wasabiae": {},
+              "Pectobacterium odoriferum": {},
+              "Pectobacterium brasiliense": {},
+              "Pectobacterium polaris": {},
+              "Pectobacterium aroidearum": {}
+            },
+            "Dickeya": {
+              "Dickeya sp.": {},
+              "Dickeya solani": {},
+              "Dickeya fangzhongdai": {},
+              "Dickeya dadantii": {},
+              "Dickeya dianthicola": {},
+              "Dickeya chrysanthemi": {}
+            }
+          }
+        },
+        "Vibrionales": {
+          "Vibrionaceae": {
+            "Vibrio": {
+              "Vibrio cholerae": {},
+              "Vibrio natriegens": {},
+              "Vibrio parahaemolyticus": {},
+              "Vibrio mimicus": {},
+              "Vibrio harveyi": {},
+              "Vibrio pelagius": {},
+              "Vibrio sp. 12A10": {},
+              "Vibrio splendidus": {},
+              "Vibrio sp. 12G05": {},
+              "Vibrio campbellii": {},
+              "Vibrio sp.": {},
+              "Vibrio sp. YD21": {},
+              "Vibrio sp. YD38": {},
+              "Vibrio diazotrophicus": {},
+              "Vibrio sp. LL003.15": {},
+              "Vibrio alginolyticus": {},
+              "Vibrio vulnificus": {},
+              "Vibrio anguillarum": {},
+              "Vibrio coralliilyticus": {},
+              "Vibrio kanaloae": {},
+              "Vibrio ordalii": {},
+              "Vibrio metschnikovii": {},
+              "Vibrio breoganii": {},
+              "Vibrio cyclitrophicus": {},
+              "Vibrio lentus": {},
+              "Vibrio sp. F12": {},
+              "Vibrio sp. F13": {},
+              "Vibrio tasmaniensis": {},
+              "Vibrio neocaledonicus": {},
+              "Vibrio sagamiensis": {},
+              "Vibrio maritimus": {},
+              "Vibrio mediterranei": {},
+              "Vibrio owensii": {},
+              "Vibrio variabilis": {},
+              "Vibrio rotiferianus": {},
+              "Vibrio sp. St2": {},
+              "Vibrio crassostreae": {},
+              "Vibrio hangzhouensis": {},
+              "Vibrio tubiashii": {},
+              "Vibrio rumoiensis": {},
+              "Vibrio sp. MV-5": {}
+            },
+            "Aliivibrio": {
+              "Aliivibrio fischeri": {}
+            },
+            "Salinivibrio": {
+              "Salinivibrio costicola": {},
+              "Salinivibrio sp.": {}
+            },
+            "Enterovibrio": {
+              "Enterovibrio norvegicus": {}
+            },
+            "Photobacterium": {
+              "Photobacterium damselae": {}
+            }
+          }
+        },
+        "Pseudomonadales": {
+          "Pseudomonadaceae": {
+            "Pseudomonas": {
+              "Pseudomonas aeruginosa": {},
+              "Pseudomonas putida": {},
+              "Pseudomonas fluorescens": {},
+              "Pseudomonas syringae": {},
+              "Pseudomonas tolaasii": {},
+              "Pseudomonas sp.": {},
+              "Pseudomonas sp. 1-1-1b": {},
+              "Pseudomonas oryzihabitans": {},
+              "Pseudomonas coronafaciens": {},
+              "Pseudomonas sp. ANT_H14": {},
+              "Pseudomonas sivasensis": {},
+              "Pseudomonas lactis": {},
+              "Pseudomonas grimontii": {},
+              "Pseudomonas agarici": {},
+              "Pseudomonas savastanoi": {},
+              "Pseudomonas syringae group genomosp. 3": {},
+              "Pseudomonas cichorii": {},
+              "Pseudomonas koreensis": {},
+              "Pseudomonas luteola": {},
+              "Pseudomonas cuatrocienegasensis": {},
+              "Pseudomonas protegens": {},
+              "Pseudomonas alcaligenes": {},
+              "Pseudomonas plecoglossicida": {},
+              "Pseudomonas sp. D3": {},
+              "Pseudomonas sp. G11": {},
+              "Pseudomonas sp. URIL14HWK12:I6": {},
+              "Pseudomonas sp. URIL14HWK12:I7": {},
+              "Pseudomonas chlororaphis": {},
+              "Pseudomonas cannabina": {}
+            },
+            "Stutzerimonas": {
+              "Stutzerimonas stutzeri": {}
+            }
+          },
+          "Marinobacteraceae": {
+            "Marinobacter": {
+              "Marinobacter sp.": {}
+            }
+          }
+        },
+        "Xanthomonadales": {
+          "Xanthomonadaceae": {
+            "Xanthomonas": {
+              "Xanthomonas campestris": {},
+              "Xanthomonas vesicatoria": {},
+              "Xanthomonas citri": {},
+              "Xanthomonas bromi": {},
+              "Xanthomonas arboricola": {},
+              "Xanthomonas oryzae": {},
+              "Xanthomonas euvesicatoria": {},
+              "Xanthomonas sp.": {},
+              "Xanthomonas fragariae": {},
+              "Xanthomonas albilineans": {},
+              "Xanthomonas translucens": {},
+              "Xanthomonas perforans": {},
+              "Xanthomonas axonopodis": {}
+            },
+            "Stenotrophomonas": {
+              "Stenotrophomonas maltophilia": {},
+              "Stenotrophomonas sp.": {}
+            },
+            "Xylella": {
+              "Xylella fastidiosa": {}
+            },
+            "Pseudoxanthomonas": {
+              "Pseudoxanthomonas kaohsiungensis": {}
+            }
+          },
+          "Rhodanobacteraceae": {
+            "Luteibacter": {
+              "Luteibacter sp.": {},
+              "Luteibacter flocculans": {}
+            }
+          }
+        },
+        "Pasteurellales": {
+          "Pasteurellaceae": {
+            "Aggregatibacter": {
+              "Aggregatibacter actinomycetemcomitans": {}
+            },
+            "Mannheimia": {
+              "Mannheimia haemolytica": {}
+            },
+            "Glaesserella": {
+              "Glaesserella parasuis": {}
+            },
+            "Pasteurella": {
+              "Pasteurella multocida": {}
+            },
+            "Haemophilus": {
+              "Haemophilus influenzae": {}
+            }
+          }
+        },
+        "Aeromonadales": {
+          "Aeromonadaceae": {
+            "Aeromonas": {
+              "Aeromonas salmonicida": {},
+              "Aeromonas sp. IS4": {},
+              "Aeromonas hydrophila": {},
+              "Aeromonas sp.": {},
+              "Aeromonas sp. ARM81": {},
+              "Aeromonas sp. A8-29": {},
+              "Aeromonas dhakensis": {},
+              "Aeromonas schubertii": {},
+              "Aeromonas rivipollensis": {},
+              "Aeromonas caviae": {},
+              "Aeromonas veronii": {},
+              "Aeromonas media": {},
+              "Aeromonas sp. MR7": {},
+              "Aeromonas sp. MR19": {},
+              "Aeromonas sp. MR16": {},
+              "Aeromonas popoffii": {}
+            },
+            "Pseudaeromonas": {
+              "Pseudaeromonas pectinilytica": {}
+            }
+          }
+        },
+        "Alteromonadales": {
+          "Colwelliaceae": {
+            "Thalassotalea": {
+              "Thalassotalea loyana": {}
+            },
+            "Colwellia": {
+              "Colwellia psychrerythraea": {}
+            }
+          },
+          "Pseudoalteromonadaceae": {
+            "Pseudoalteromonas": {
+              "Pseudoalteromonas sp. YD6": {},
+              "Pseudoalteromonas sp. H105": {},
+              "Pseudoalteromonas marina": {},
+              "Pseudoalteromonas sp.": {},
+              "Pseudoalteromonas phenolica": {},
+              "Pseudoalteromonas sp. Bq0": {},
+              "Pseudoalteromonas sp. H6": {},
+              "Pseudoalteromonas atlantica": {},
+              "Pseudoalteromonas espejiana": {}
+            }
+          },
+          "Alteromonadaceae": {
+            "Alteromonas": {
+              "Alteromonas macleodii": {},
+              "Alteromonas mediterranea": {},
+              "Alteromonas gracilis": {},
+              "Alteromonas marina": {},
+              "Alteromonas litorea": {},
+              "Alteromonas sp.": {},
+              "Alteromonas confluentis": {},
+              "Alteromonas abrolhosensis": {}
+            },
+            "Paraglaciecola": {
+              "Paraglaciecola sp.": {}
+            }
+          },
+          "Shewanellaceae": {
+            "Shewanella": {
+              "Shewanella putrefaciens": {},
+              "Shewanella fidelis": {},
+              "Shewanella baltica": {},
+              "Shewanella indica": {},
+              "Shewanella inventionis": {},
+              "Shewanella sp. M16": {},
+              "Shewanella oneidensis": {},
+              "Shewanella sp.": {},
+              "Shewanella sp. 4": {},
+              "Shewanella sp. 40": {},
+              "Shewanella sp. 41": {},
+              "Shewanella sp. 44": {},
+              "Shewanella sp. 49": {}
+            }
+          },
+          "Idiomarinaceae": {
+            "Idiomarinaceae bacterium M2-2": {},
+            "Idiomarinaceae bacterium N2-2": {}
+          }
+        },
+        "Moraxellales": {
+          "Moraxellaceae": {
+            "Acinetobacter": {
+              "Acinetobacter baumannii": {},
+              "Acinetobacter johnsonii": {},
+              "Acinetobacter soli": {},
+              "Acinetobacter nosocomialis": {},
+              "Acinetobacter sp.": {},
+              "Acinetobacter lwoffii": {},
+              "Acinetobacter baylyi": {},
+              "Acinetobacter pittii": {},
+              "Acinetobacter calcoaceticus": {},
+              "Acinetobacter radioresistens": {},
+              "Acinetobacter beijerinckii": {},
+              "Acinetobacter halotolerans": {},
+              "Acinetobacter genomosp. 16BJ": {}
+            },
+            "Psychrobacter": {
+              "Psychrobacter sp. OW20": {},
+              "Psychrobacter sp. MV2": {},
+              "Psychrobacter sp.": {},
+              "Psychrobacter aquimaris": {}
+            },
+            "Moraxella": {
+              "Moraxella catarrhalis": {}
+            }
+          }
+        },
+        "Oceanospirillales": {
+          "Halomonadaceae": {
+            "Salicola": {
+              "Salicola sp.": {},
+              "Salicola sp. PV4": {}
+            },
+            "Halomonas": {
+              "Halomonas ventosae": {},
+              "Halomonas sp.": {},
+              "Halomonas aquamarina": {}
+            }
+          },
+          "Oceanospirillaceae": {
+            "Marinomonas": {
+              "Marinomonas sp.": {},
+              "Marinomonas mediterranea": {}
+            },
+            "Nitrincola": {
+              "Nitrincola sp.": {}
+            },
+            "Oceanospirillum": {
+              "Oceanospirillum sanctuarii": {}
+            }
+          }
+        },
+        "Methylococcales": {
+          "Methylococcaceae": {
+            "Methylomicrobium": {
+              "Methylomicrobium album": {}
+            }
+          }
+        },
+        "Gammaproteobacteria bacterium": {},
+        "Chromatiales": {
+          "Chromatiaceae": {
+            "Rheinheimera": {
+              "Rheinheimera sp. BAL341": {},
+              "Rheinheimera soli": {}
+            }
+          }
+        },
+        "Orbales": {
+          "Orbaceae": {
+            "Gilliamella": {
+              "Gilliamella apicola": {}
+            }
+          }
+        },
+        "Alkalimonas": {
+          "Alkalimonas collagenimarina": {}
+        }
+      },
+      "Alphaproteobacteria": {
+        "Hyphomicrobiales": {
+          "Rhizobiaceae": {
+            "Rhizobium": {
+              "Rhizobium leguminosarum": {},
+              "Rhizobium etli": {},
+              "Rhizobium phaseoli": {},
+              "Rhizobium gallicum": {},
+              "Rhizobium sp.": {},
+              "Rhizobium sp. N324": {},
+              "Rhizobium sp. R635": {},
+              "Rhizobium sp. R693": {},
+              "Rhizobium sp. N4311": {},
+              "Rhizobium sp. N941": {},
+              "Rhizobium sp. R339": {}
+            },
+            "Sinorhizobium": {
+              "Sinorhizobium meliloti": {},
+              "Sinorhizobium sp. LM21": {},
+              "Sinorhizobium americanum": {}
+            },
+            "Agrobacterium": {
+              "Agrobacterium tumefaciens": {},
+              "Agrobacterium sp.": {},
+              "Agrobacterium fabacearum": {}
+            },
+            "Liberibacter": {
+              "Candidatus Liberibacter asiaticus": {}
+            }
+          },
+          "Brucellaceae": {
+            "Brucella": {
+              "Brucella abortus": {},
+              "Brucella sp.": {},
+              "Brucella neotomae": {},
+              "Brucella suis": {},
+              "Brucella microti": {},
+              "Brucella melitensis": {},
+              "Brucella canis": {},
+              "Brucella inopinata": {},
+              "Brucella pinnipedialis": {},
+              "Brucella anthropi": {},
+              "Brucella intermedia": {}
+            },
+            "Ochrobactrum": {
+              "Ochrobactrum sp. POC9": {}
+            }
+          },
+          "Aurantimonadaceae": {
+            "Aurantimonas": {
+              "Aurantimonas sp. C5-1": {}
+            }
+          },
+          "Phyllobacteriaceae": {
+            "Mesorhizobium": {
+              "Mesorhizobium loti": {}
+            },
+            "Aquamicrobium": {
+              "Aquamicrobium sp. H14": {},
+              "Aquamicrobium sp. H8": {}
+            },
+            "Aminobacter": {
+              "Aminobacter sp. MSH1": {}
+            }
+          },
+          "Nitrobacteraceae": {
+            "Bradyrhizobium": {
+              "Bradyrhizobium diazoefficiens": {},
+              "Bradyrhizobium japonicum": {},
+              "Bradyrhizobium elkanii": {}
+            }
+          },
+          "Stappiaceae": {
+            "Stappia": {
+              "Stappia indica": {}
+            }
+          },
+          "Bartonellaceae": {
+            "Bartonella": {
+              "Bartonella vinsonii": {},
+              "Bartonella henselae": {},
+              "Bartonella quintana": {}
+            }
+          }
+        },
+        "Rhodospirillales": {
+          "Azospirillaceae": {
+            "Azospirillum": {
+              "Azospirillum brasilense": {}
+            }
+          },
+          "Acetobacteraceae": {
+            "Gluconobacter": {
+              "Gluconobacter cerinus": {}
+            },
+            "Acetobacter": {
+              "Acetobacter pasteurianus": {},
+              "Acetobacter orleanensis": {},
+              "Acetobacter sp.": {}
+            },
+            "Komagataeibacter": {
+              "Komagataeibacter xylinus": {}
+            },
+            "Novacetimonas": {
+              "Novacetimonas maltaceti": {}
+            }
+          }
+        },
+        "Rhodobacterales": {
+          "Roseobacteraceae": {
+            "Ruegeria": {
+              "Ruegeria pomeroyi": {},
+              "Ruegeria sp. AU67": {}
+            },
+            "Sulfitobacter": {
+              "Sulfitobacter sp. EE-36": {},
+              "Sulfitobacter sp. CB2047": {},
+              "Sulfitobacter sp. HGT1": {},
+              "Sulfitobacter sp.": {}
+            },
+            "Roseobacter": {
+              "Roseobacter denitrificans": {},
+              "Roseobacter sp. SIO67": {},
+              "Roseobacter sp.": {}
+            },
+            "Loktanella": {
+              "Loktanella sp.": {},
+              "Loktanella sp. CB 2051": {}
+            },
+            "Roseovarius": {
+              "Roseovarius sp. 217": {},
+              "Roseovarius nubinhibens": {}
+            },
+            "Celeribacter": {
+              "Celeribacter sp.": {},
+              "Celeribacter marinus": {}
+            },
+            "Dinoroseobacter": {
+              "Dinoroseobacter shibae": {}
+            },
+            "Salipiger": {
+              "Salipiger abyssi": {},
+              "Salipiger profundus": {}
+            },
+            "Lentibacter": {
+              "Lentibacter sp.": {}
+            },
+            "Phaeobacter": {
+              "Phaeobacter inhibens": {}
+            },
+            "Octadecabacter": {
+              "Octadecabacter sp.": {}
+            }
+          },
+          "Paracoccaceae": {
+            "Rhodobacter": {
+              "Rhodobacter capsulatus": {},
+              "Rhodobacter sp.": {}
+            },
+            "Rhodovulum": {
+              "Rhodovulum sp.": {},
+              "Rhodovulum sp. P5": {}
+            },
+            "Paracoccus": {
+              "Paracoccus marcusii": {},
+              "Paracoccus yeei": {},
+              "Paracoccus versutus": {},
+              "Paracoccus kondratievae": {},
+              "Paracoccus sulfuroxidans": {},
+              "Paracoccus thiocyanatus": {},
+              "Paracoccus marinus": {},
+              "Paracoccus sp. (in: a-proteobacteria)": {}
+            },
+            "Paracoccaceae bacterium": {},
+            "Tritonibacter": {
+              "Tritonibacter mobilis": {}
+            },
+            "Cereibacter": {
+              "Cereibacter sphaeroides": {}
+            }
+          }
+        },
+        "Caulobacterales": {
+          "Caulobacteraceae": {
+            "Caulobacter": {
+              "Caulobacter vibrioides": {},
+              "Caulobacter sp.": {},
+              "Caulobacter segnis": {}
+            },
+            "Brevundimonas": {
+              "Brevundimonas subvibrioides": {},
+              "Brevundimonas sp.": {},
+              "Brevundimonas goettingensis": {},
+              "Brevundimonas pondensis": {}
+            }
+          }
+        },
+        "Candidatus Puniceispirillum": {
+          "Candidatus Puniceispirillum marinum": {}
+        },
+        "Rickettsiales": {
+          "Anaplasmataceae": {
+            "Wolbachia": {
+              "Wolbachia endosymbiont": {},
+              "Wolbachia endosymbiont of Nasonia vitripennis": {},
+              "Wolbachia endosymbiont of Simulium squamosum": {},
+              "Wolbachia endosymbiont of Hypolimnas bolina": {},
+              "Wolbachia sp. wCauB": {}
+            },
+            "Candidatus Xenohaliotis": {
+              "Candidatus Xenohaliotis californiensis": {}
+            }
+          },
+          "Rickettsiaceae": {
+            "Candidatus Megaira": {
+              "Candidatus Megaira polyxenophila": {}
+            }
+          }
+        },
+        "Sphingomonadales": {
+          "Sphingomonadaceae": {
+            "Sphingomonas": {
+              "Sphingomonas paucimobilis": {},
+              "Sphingomonas sp.": {},
+              "Sphingomonas turrisvirgatae": {}
+            },
+            "Sphingobium": {
+              "Sphingobium sp. IP1": {}
+            },
+            "Citromicrobium": {
+              "Citromicrobium sp. RCC1878": {},
+              "Citromicrobium bathyomarinum": {}
+            },
+            "Sphingopyxis": {
+              "Sphingopyxis sp.": {}
+            }
+          },
+          "Erythrobacteraceae": {
+            "Erythrobacter": {
+              "Erythrobacter litoralis": {},
+              "Erythrobacter sp.": {}
+            }
+          }
+        },
+        "Candidatus Pelagibacterales": {
+          "Pelagibacteraceae": {
+            "Candidatus Pelagibacter": {
+              "Candidatus Pelagibacter ubique": {},
+              "Candidatus Pelagibacter sp. HTCC7211": {},
+              "Candidatus Pelagibacter sp. FZCC0015": {},
+              "Candidatus Pelagibacter sp.": {}
+            }
+          }
+        },
+        "alpha proteobacterium JL001": {}
+      },
+      "Betaproteobacteria": {
+        "Burkholderiales": {
+          "Burkholderiaceae": {
+            "Burkholderia": {
+              "Burkholderia pyrrocinia": {},
+              "Burkholderia cenocepacia": {},
+              "Burkholderia ambifaria": {},
+              "Burkholderia pseudomallei": {},
+              "Burkholderia cepacia": {},
+              "Burkholderia multivorans": {},
+              "Burkholderia thailandensis": {},
+              "Burkholderia glumae": {},
+              "Burkholderia gladioli": {},
+              "Burkholderia contaminans": {}
+            },
+            "Ralstonia": {
+              "Ralstonia pickettii": {},
+              "Ralstonia solanacearum": {},
+              "Ralstonia pseudosolanacearum": {}
+            }
+          },
+          "Comamonadaceae": {
+            "Delftia": {
+              "Delftia acidovorans": {},
+              "Delftia tsuruhatensis": {},
+              "Delftia sp. 670": {}
+            },
+            "Rhodoferax": {
+              "Rhodoferax sp.": {},
+              "Rhodoferax lacus": {}
+            },
+            "Curvibacter": {
+              "Curvibacter sp.": {},
+              "Curvibacter sp. AEP1.3": {}
+            },
+            "Paracidovorax": {
+              "Paracidovorax citrulli": {}
+            },
+            "Variovorax": {
+              "Variovorax sp. ZS18.2.2": {}
+            },
+            "Polaromonas": {
+              "Polaromonas sp.": {}
+            }
+          },
+          "Alcaligenaceae": {
+            "Achromobacter": {
+              "Achromobacter xylosoxidans": {},
+              "Achromobacter denitrificans": {},
+              "Achromobacter animicus": {},
+              "Achromobacter marplatensis": {},
+              "Achromobacter sp.": {},
+              "Achromobacter spanius": {}
+            },
+            "Bordetella": {
+              "Bordetella bronchiseptica": {},
+              "Bordetella avium": {}
+            },
+            "Castellaniella": {
+              "Castellaniella sp. H13": {},
+              "Castellaniella sp. H17": {},
+              "Castellaniella sp. H5": {}
+            },
+            "Alcaligenes": {
+              "Alcaligenes faecalis": {}
+            }
+          },
+          "Sphaerotilaceae": {
+            "Sphaerotilus": {
+              "Sphaerotilus natans": {}
+            }
+          },
+          "Oxalobacteraceae": {
+            "Janthinobacterium": {
+              "Janthinobacterium lividum": {}
+            }
+          },
+          "Xylophilus": {
+            "Xylophilus sp.": {}
+          }
+        },
+        "Neisseriales": {
+          "Chromobacteriaceae": {
+            "Iodobacter": {
+              "Iodobacter sp. CdM7": {}
+            },
+            "Microvirgula": {
+              "Microvirgula aerodenitrificans": {}
+            }
+          },
+          "Neisseriaceae": {
+            "Neisseria": {
+              "Neisseria meningitidis": {}
+            }
+          }
+        },
+        "Nitrosomonadales": {
+          "marine bacterium HIMB624": {},
+          "Methylophilaceae": {
+            "Methylophilaceae bacterium": {}
+          },
+          "Nitrosomonadaceae": {
+            "Nitrosomonas": {
+              "Nitrosomonas sp.": {}
+            }
+          },
+          "Methylophilales bacterium": {}
+        }
+      },
+      "Acidithiobacillia": {
+        "Acidithiobacillales": {
+          "Acidithiobacillaceae": {
+            "Acidithiobacillus": {
+              "Acidithiobacillus caldus": {}
+            }
+          }
+        }
+      },
+      "Hydrogenophilia": {
+        "Hydrogenophilales": {
+          "Hydrogenophilaceae": {
+            "Hydrogenophilus": {
+              "Hydrogenophilus thermoluteolus": {}
+            }
+          }
+        }
+      }
+    },
+    "Actinomycetota": {
+      "Actinomycetes": {
+        "Kitasatosporales": {
+          "Streptomycetaceae": {
+            "Streptomyces": {
+              "Streptomyces venezuelae": {},
+              "Streptomyces albus": {},
+              "Streptomyces coelicolor": {},
+              "Streptomyces avermitilis": {},
+              "Streptomyces hygroscopicus": {},
+              "Streptomyces sp.": {},
+              "Streptomyces lividans": {},
+              "Streptomyces xanthochromogenes": {},
+              "Streptomyces griseus": {},
+              "Streptomyces tricolor": {},
+              "Streptomyces griseofuscus": {},
+              "Streptomyces flavovirens": {},
+              "Streptomyces azureus": {},
+              "Streptomyces platensis": {},
+              "Streptomyces indigocolor": {},
+              "Streptomyces viridochromogenes": {},
+              "Streptomyces sanglieri": {},
+              "Streptomyces scabiei": {},
+              "Streptomyces toxytricini": {},
+              "Streptomyces virginiae": {},
+              "Streptomyces mirabilis": {},
+              "Streptomyces sp. ZL12": {},
+              "Streptomyces rimosus": {}
+            },
+            "Streptantibioticus": {
+              "Streptantibioticus cattleyicolor": {}
+            },
+            "Kitasatospora": {
+              "Kitasatospora aureofaciens": {}
+            }
+          }
+        },
+        "Mycobacteriales": {
+          "Corynebacteriaceae": {
+            "Corynebacterium": {
+              "[Brevibacterium] flavum": {},
+              "Corynebacterium glutamicum": {},
+              "Corynebacterium pseudotuberculosis": {},
+              "Corynebacterium simulans": {},
+              "Corynebacterium vitaeruminis": {},
+              "Corynebacterium xerosis": {},
+              "Corynebacterium flavescens": {},
+              "Corynebacterium diphtheriae": {}
+            }
+          },
+          "Mycobacteriaceae": {
+            "Mycolicibacterium": {
+              "Mycolicibacterium smegmatis": {},
+              "Mycolicibacterium vaccae": {},
+              "Mycolicibacterium phlei": {},
+              "Mycolicibacterium aichiense": {}
+            },
+            "Mycobacterium": {
+              "Mycobacterium tuberculosis": {},
+              "Mycobacterium sp.": {},
+              "Mycobacterium avium": {}
+            },
+            "Mycobacteroides": {
+              "Mycobacteroides abscessus": {},
+              "Mycobacteroides chelonae": {}
+            }
+          },
+          "Gordoniaceae": {
+            "Gordonia": {
+              "Gordonia terrae": {},
+              "Gordonia amicalis": {},
+              "Gordonia australis": {},
+              "Gordonia malaquae": {},
+              "Gordonia rubripertincta": {},
+              "Gordonia sputi": {},
+              "Gordonia alkanivorans": {},
+              "Gordonia sp. (in: high G+C Gram-positive bacteria)": {},
+              "Gordonia westfalica": {},
+              "Gordonia neofelifaecis": {},
+              "Gordonia sp. G7": {},
+              "Gordonia sp. G1": {}
+            },
+            "Skermania": {
+              "Skermania piniformis": {}
+            }
+          },
+          "Nocardiaceae": {
+            "Nocardia": {
+              "Nocardia otitidiscaviarum": {},
+              "Nocardia brasiliensis": {},
+              "Nocardia asteroides": {},
+              "Nocardia nova": {},
+              "Nocardia sp.": {},
+              "Nocardia transvalensis": {},
+              "Nocardia carnea": {},
+              "Nocardia seriolae": {}
+            },
+            "Rhodococcus": {
+              "Rhodococcus erythropolis": {},
+              "Rhodococcus globerulus": {},
+              "Rhodococcus rhodochrous": {},
+              "Rhodococcus opacus": {},
+              "Rhodococcus sp. s1": {},
+              "Rhodococcus sp. S2": {}
+            },
+            "Prescottella": {
+              "Prescottella equi": {}
+            }
+          },
+          "Tsukamurellaceae": {
+            "Tsukamurella": {
+              "Tsukamurella paurometabola": {},
+              "Tsukamurella inchonensis": {}
+            }
+          }
+        },
+        "Pseudonocardiales": {
+          "Pseudonocardiaceae": {
+            "Saccharomonospora": {
+              "Saccharomonospora sp.": {}
+            }
+          }
+        },
+        "Micromonosporales": {
+          "Micromonosporaceae": {
+            "Micromonospora": {
+              "Micromonospora carbonacea": {},
+              "Micromonospora sp. ATCC 39149": {}
+            },
+            "Actinoplanes": {
+              "Actinoplanes sp. SN223/29": {}
+            }
+          }
+        },
+        "Micrococcales": {
+          "Microbacteriaceae": {
+            "Microbacterium": {
+              "Microbacterium nematophilum": {},
+              "Microbacterium oxydans": {},
+              "Microbacterium foliorum": {},
+              "Microbacterium terrae": {},
+              "Microbacterium liquefaciens": {},
+              "Microbacterium paraoxydans": {},
+              "Microbacterium natoriense": {},
+              "Microbacterium testaceum": {},
+              "Microbacterium sp.": {},
+              "Microbacterium sp. R1": {},
+              "Microbacterium radiodurans": {}
+            },
+            "Clavibacter": {
+              "Clavibacter michiganensis": {}
+            },
+            "Rathayibacter": {
+              "Rathayibacter toxicus": {}
+            },
+            "Pontimonas": {
+              "Pontimonas salivibrio": {}
+            },
+            "Curtobacterium": {
+              "Curtobacterium sp.": {}
+            }
+          },
+          "Intrasporangiaceae": {
+            "Tetrasphaera": {
+              "Tetrasphaera jenkinsii": {}
+            }
+          },
+          "Micrococcaceae": {
+            "Arthrobacter": {
+              "Arthrobacter sp.": {},
+              "Arthrobacter sp. ATCC 21022": {},
+              "Arthrobacter globiformis": {},
+              "Arthrobacter sp. 68b": {}
+            },
+            "Paeniglutamicibacter": {
+              "Paeniglutamicibacter sulfureus": {}
+            },
+            "Sinomonas": {
+              "Sinomonas atrocyanea": {}
+            },
+            "Rothia": {
+              "Rothia dentocariosa": {}
+            },
+            "Glutamicibacter": {
+              "Glutamicibacter halophytocola": {},
+              "Glutamicibacter arilaitensis": {}
+            }
+          },
+          "Brevibacteriaceae": {
+            "Brevibacterium": {
+              "Brevibacterium iodinum": {},
+              "Brevibacterium fuscum": {},
+              "Brevibacterium aurantiacum": {}
+            }
+          },
+          "Promicromonosporaceae": {
+            "Cellulosimicrobium": {
+              "Cellulosimicrobium sp.": {}
+            }
+          }
+        },
+        "Bifidobacteriales": {
+          "Bifidobacteriaceae": {
+            "Bifidobacterium": {
+              "Bifidobacterium bifidum": {},
+              "Bifidobacterium thermophilum": {},
+              "Bifidobacterium asteroides": {},
+              "Bifidobacterium adolescentis": {},
+              "Bifidobacterium dentium": {},
+              "Bifidobacterium pseudocatenulatum": {}
+            },
+            "Gardnerella": {
+              "Gardnerella vaginalis": {}
+            }
+          }
+        },
+        "Propionibacteriales": {
+          "Propionibacteriaceae": {
+            "Cutibacterium": {
+              "Cutibacterium acnes": {}
+            },
+            "Propionibacterium": {
+              "Propionibacterium freudenreichii": {}
+            }
+          }
+        },
+        "Streptosporangiales": {
+          "Nocardiopsaceae": {
+            "Thermobifida": {
+              "Thermobifida fusca": {}
+            }
+          }
+        },
+        "Actinomycetales": {
+          "Actinomycetaceae": {
+            "Schaalia": {
+              "Schaalia odontolytica": {}
+            },
+            "Trueperella": {
+              "Trueperella pyogenes": {}
+            },
+            "Actinomyces": {
+              "Actinomyces naeslundii": {}
+            }
+          }
+        }
+      },
+      "Coriobacteriia": {
+        "Eggerthellales": {
+          "Eggerthellaceae": {
+            "Eggerthella": {
+              "Eggerthella lenta": {}
+            }
+          }
+        }
+      }
+    },
+    "Bacillota": {
+      "Bacilli": {
+        "Bacillales": {
+          "Bacillaceae": {
+            "Bacillus": {
+              "Bacillus subtilis": {},
+              "Bacillus sp. (in: firmicutes)": {},
+              "Bacillus cereus": {},
+              "Bacillus anthracis": {},
+              "Bacillus thuringiensis": {},
+              "Bacillus pumilus": {},
+              "Bacillus mycoides": {},
+              "Bacillus paralicheniformis": {},
+              "Bacillus amyloliquefaciens": {},
+              "Bacillus licheniformis": {},
+              "Bacillus velezensis": {},
+              "Bacillus paranthracis": {},
+              "Bacillus sp. 6k512": {},
+              "Bacillus safensis": {},
+              "Bacillus altitudinis": {},
+              "Bacillus australimaris": {},
+              "Bacillus tequilensis": {},
+              "Bacillus sp. ET1": {}
+            },
+            "Geobacillus": {
+              "Geobacillus sp. 6k51": {},
+              "Geobacillus sp. WCH70": {},
+              "Geobacillus sp. Y412MC61": {},
+              "Geobacillus sp. Y412MC52": {},
+              "Geobacillus thermoleovorans": {},
+              "Geobacillus kaustophilus": {},
+              "Geobacillus icigianus": {},
+              "Geobacillus stearothermophilus": {},
+              "Geobacillus thermodenitrificans": {},
+              "Geobacillus sp. E263": {}
+            },
+            "Parageobacillus": {
+              "Parageobacillus thermoglucosidasius": {},
+              "Parageobacillus toebii": {}
+            },
+            "Priestia": {
+              "Priestia megaterium": {}
+            },
+            "Alkalihalobacillus": {
+              "Alkalihalobacillus alcalophilus": {},
+              "Alkalihalobacillus bogoriensis": {},
+              "Alkalihalobacillus pseudalcaliphilus": {}
+            },
+            "Sutcliffiella": {
+              "Sutcliffiella halmapala": {},
+              "Sutcliffiella cohnii": {}
+            },
+            "Aeribacillus": {
+              "Aeribacillus pallidus": {},
+              "Aeribacillus sp.": {}
+            },
+            "Caldibacillus": {
+              "Caldibacillus debilis": {}
+            },
+            "Lysinibacillus": {
+              "Lysinibacillus sphaericus": {},
+              "Lysinibacillus capsici": {},
+              "Lysinibacillus fusiformis": {}
+            },
+            "Anoxybacillus": {
+              "Anoxybacillus caldiproteolyticus": {},
+              "Anoxybacillus ayderensis": {}
+            },
+            "Alkalihalophilus": {
+              "Alkalihalophilus pseudofirmus": {}
+            },
+            "Virgibacillus": {
+              "Virgibacillus halotolerans": {}
+            },
+            "Cytobacillus": {
+              "Cytobacillus oceanisediminis": {},
+              "Cytobacillus firmus": {}
+            },
+            "Psychrobacillus": {
+              "Psychrobacillus psychrodurans": {},
+              "Psychrobacillus sp.": {}
+            },
+            "Peribacillus": {
+              "Peribacillus simplex": {}
+            },
+            "Evansella": {
+              "Evansella clarkii": {}
+            }
+          },
+          "Listeriaceae": {
+            "Listeria": {
+              "Listeria monocytogenes": {},
+              "Listeria innocua": {},
+              "Listeria sp.": {},
+              "Listeria ivanovii": {},
+              "Listeria weihenstephanensis": {},
+              "Listeria grayi": {},
+              "Listeria seeligeri": {}
+            },
+            "Brochothrix": {
+              "Brochothrix thermosphacta": {}
+            }
+          },
+          "Staphylococcaceae": {
+            "Staphylococcus": {
+              "Staphylococcus aureus": {},
+              "Staphylococcus sp.": {},
+              "Staphylococcus xylosus": {},
+              "Staphylococcus pasteuri": {},
+              "Staphylococcus hominis": {},
+              "Staphylococcus capitis": {},
+              "Staphylococcus epidermidis": {},
+              "Staphylococcus saprophyticus": {},
+              "Staphylococcus ureilyticus": {},
+              "Staphylococcus haemolyticus": {},
+              "Staphylococcus cohnii": {},
+              "Staphylococcus pseudintermedius": {},
+              "Staphylococcus caprae": {},
+              "Staphylococcus warneri": {},
+              "Staphylococcus hyicus": {},
+              "Staphylococcus carnosus": {},
+              "Staphylococcus equorum": {},
+              "Staphylococcus succinus": {},
+              "Staphylococcus arlettae": {}
+            },
+            "Mammaliicoccus": {
+              "Mammaliicoccus sciuri": {},
+              "Mammaliicoccus lentus": {},
+              "Mammaliicoccus vitulinus": {}
+            }
+          },
+          "Paenibacillaceae": {
+            "Paenibacillus": {
+              "Paenibacillus glucanolyticus": {},
+              "Paenibacillus larvae": {},
+              "Paenibacillus dendritiformis": {},
+              "Paenibacillus pabuli": {},
+              "Paenibacillus polymyxa": {}
+            },
+            "Brevibacillus": {
+              "Brevibacillus laterosporus": {}
+            }
+          },
+          "Exiguobacterium": {
+            "Exiguobacterium aurantiacum": {},
+            "Exiguobacterium alkaliphilum": {}
+          },
+          "Planococcaceae": {
+            "Sporosarcina": {
+              "Sporosarcina aquimarina": {}
+            },
+            "Kurthia": {
+              "Kurthia gibsonii": {}
+            }
+          },
+          "Alicyclobacillaceae": {
+            "Alicyclobacillus": {
+              "Alicyclobacillus acidoterrestris": {}
+            }
+          }
+        },
+        "Lactobacillales": {
+          "Streptococcaceae": {
+            "Streptococcus": {
+              "Streptococcus pneumoniae": {},
+              "Streptococcus pyogenes": {},
+              "Streptococcus thermophilus": {},
+              "Streptococcus mitis": {},
+              "Streptococcus suis": {},
+              "Streptococcus dysgalactiae": {},
+              "Streptococcus gordonii": {},
+              "Streptococcus oralis": {},
+              "Streptococcus sp. oral taxon 058": {},
+              "Streptococcus salivarius": {},
+              "Streptococcus agalactiae": {},
+              "Streptococcus mutans": {},
+              "Streptococcus parauberis": {},
+              "Streptococcus sp.": {},
+              "Streptococcus acidominimus": {},
+              "Streptococcus constellatus": {},
+              "Streptococcus cristatus": {},
+              "Streptococcus cuniculi": {},
+              "Streptococcus entericus": {},
+              "Streptococcus equi": {},
+              "Streptococcus equinus": {},
+              "Streptococcus gallolyticus": {},
+              "Streptococcus halotolerans": {},
+              "Streptococcus henryi": {},
+              "Streptococcus himalayensis": {},
+              "Streptococcus hyovaginalis": {},
+              "Streptococcus ictaluri": {},
+              "Streptococcus infantarius": {},
+              "Streptococcus infantis": {},
+              "Streptococcus iniae": {},
+              "Streptococcus intermedius": {},
+              "Streptococcus lutetiensis": {},
+              "Streptococcus macedonicus": {},
+              "Streptococcus marmotae": {},
+              "Streptococcus orisratti": {},
+              "Streptococcus parasanguinis": {},
+              "Streptococcus pasteurianus": {},
+              "Streptococcus phocae": {},
+              "Streptococcus porci": {},
+              "Streptococcus porcinus": {},
+              "Streptococcus pseudopneumoniae": {},
+              "Streptococcus pseudoporcinus": {},
+              "Streptococcus anginosus": {},
+              "Streptococcus thoraltensis": {},
+              "Streptococcus uberis": {},
+              "Streptococcus urinalis": {},
+              "Streptococcus azizii": {},
+              "Streptococcus canis": {},
+              "Streptococcus merionis": {},
+              "Streptococcus plurextorum": {},
+              "Streptococcus sanguinis": {},
+              "Streptococcus vestibularis": {},
+              "Streptococcus caballi": {},
+              "Streptococcus castoreus": {},
+              "Streptococcus sp. 'group C'": {},
+              "Streptococcus sp. GMD2S": {},
+              "Streptococcus sp. GMD6S": {}
+            },
+            "Lactococcus": {
+              "Lactococcus cremoris": {},
+              "Lactococcus lactis": {},
+              "Lactococcus garvieae": {},
+              "Lactococcus sp.": {},
+              "Lactococcus petauri": {}
+            }
+          },
+          "Lactobacillaceae": {
+            "Lactobacillus": {
+              "Lactobacillus delbrueckii": {},
+              "Lactobacillus gasseri": {},
+              "Lactobacillus johnsonii": {},
+              "Lactobacillus jensenii": {},
+              "Lactobacillus sp.": {},
+              "Lactobacillus apis": {},
+              "Lactobacillus crispatus": {},
+              "Lactobacillus kimbladii": {},
+              "Lactobacillus kullabergensis": {},
+              "Lactobacillus melliventris": {},
+              "Lactobacillus helveticus": {}
+            },
+            "Lacticaseibacillus": {
+              "Lacticaseibacillus paracasei": {},
+              "Lacticaseibacillus casei": {},
+              "Lacticaseibacillus rhamnosus": {}
+            },
+            "Oenococcus": {
+              "Oenococcus oeni": {}
+            },
+            "Limosilactobacillus": {
+              "Limosilactobacillus fermentum": {},
+              "Limosilactobacillus reuteri": {}
+            },
+            "Leuconostoc": {
+              "Leuconostoc mesenteroides": {},
+              "Leuconostoc pseudomesenteroides": {},
+              "Leuconostoc falkenbergense": {}
+            },
+            "Weissella": {
+              "Weissella cibaria": {},
+              "Weissella sp.": {},
+              "Weissella ceti": {},
+              "Weissella confusa": {}
+            },
+            "Levilactobacillus": {
+              "Levilactobacillus brevis": {}
+            },
+            "Ligilactobacillus": {
+              "Ligilactobacillus murinus": {},
+              "Ligilactobacillus acidipiscis": {}
+            },
+            "Lactiplantibacillus": {
+              "Lactiplantibacillus pentosus": {},
+              "Lactiplantibacillus plantarum": {}
+            },
+            "Liquorilactobacillus": {
+              "Liquorilactobacillus mali": {}
+            },
+            "Latilactobacillus": {
+              "Latilactobacillus sakei": {},
+              "Latilactobacillus curvatus": {}
+            }
+          },
+          "Enterococcaceae": {
+            "Enterococcus": {
+              "Enterococcus faecalis": {},
+              "Enterococcus faecium": {},
+              "Enterococcus sp.": {},
+              "Enterococcus gallinarum": {},
+              "Enterococcus hirae": {}
+            },
+            "Tetragenococcus": {
+              "Tetragenococcus halophilus": {}
+            }
+          },
+          "Aerococcaceae": {
+            "Aerococcus": {
+              "Aerococcus viridans": {}
+            }
+          },
+          "Carnobacteriaceae": {
+            "Carnobacterium": {
+              "Carnobacterium divergens": {}
+            }
+          }
+        }
+      },
+      "Clostridia": {
+        "Eubacteriales": {
+          "Clostridiaceae": {
+            "Clostridium": {
+              "Clostridium botulinum": {},
+              "Clostridium perfringens": {},
+              "Clostridium sporogenes": {},
+              "Clostridium tetani": {},
+              "Clostridium saccharoperbutylacetonicum": {},
+              "Clostridium butyricum": {},
+              "Clostridium tyrobutyricum": {},
+              "Clostridium beijerinckii": {}
+            },
+            "Hungatella": {
+              "Hungatella sp.": {}
+            }
+          },
+          "Peptostreptococcaceae": {
+            "Clostridioides": {
+              "Clostridioides difficile": {},
+              "Clostridioides sp. ES-S-0107-01": {},
+              "Clostridioides sp. ES-S-0173-01": {}
+            }
+          },
+          "Oscillospiraceae": {
+            "Faecalibacterium": {
+              "Faecalibacterium prausnitzii": {}
+            },
+            "Agathobaculum": {
+              "Agathobaculum butyriciproducens": {}
+            }
+          },
+          "Lachnospiraceae": {
+            "Butyrivibrio": {
+              "Butyrivibrio fibrisolvens": {}
+            },
+            "Mediterraneibacter": {
+              "[Ruminococcus] gnavus": {}
+            },
+            "Anaerostipes": {
+              "Anaerostipes caccae": {}
+            },
+            "Dorea": {
+              "Dorea sp.": {}
+            },
+            "Enterocloster": {
+              "Enterocloster bolteae": {}
+            },
+            "Roseburia": {
+              "Roseburia intestinalis": {}
+            }
+          }
+        },
+        "Thermoanaerobacterales": {
+          "Thermoanaerobacteraceae": {
+            "Thermoanaerobacterium": {
+              "Thermoanaerobacterium saccharolyticum": {}
+            }
+          }
+        }
+      },
+      "Erysipelotrichia": {
+        "Erysipelotrichales": {
+          "Erysipelotrichaceae": {
+            "Erysipelothrix": {
+              "Erysipelothrix rhusiopathiae": {}
+            },
+            "Solobacterium": {
+              "Solobacterium moorei": {}
+            }
+          }
+        }
+      },
+      "Negativicutes": {
+        "Selenomonadales": {
+          "Selenomonadaceae": {
+            "Selenomonas": {
+              "Selenomonas ruminantium": {}
+            }
+          }
+        }
+      }
+    },
+    "Mycoplasmatota": {
+      "Mollicutes": {
+        "Mycoplasmatales": {
+          "Mycoplasmataceae": {
+            "Mycoplasma": {
+              "Mycoplasma sp.": {},
+              "Mycoplasma anserisalpingitidis": {}
+            },
+            "Mycoplasmopsis": {
+              "Mycoplasmopsis anatis": {},
+              "Mycoplasmopsis pulmonis": {}
+            }
+          }
+        },
+        "Acholeplasmatales": {
+          "Acholeplasmataceae": {
+            "Acholeplasma": {
+              "Acholeplasma laidlawii": {}
+            }
+          }
+        },
+        "Entomoplasmatales": {
+          "Spiroplasmataceae": {
+            "Spiroplasma": {
+              "Spiroplasma citri": {},
+              "Spiroplasma melliferum": {},
+              "Spiroplasma poulsonii": {},
+              "Spiroplasma kunkelii": {}
+            }
+          }
+        }
+      },
+      "Mycoplasmoidales": {
+        "Metamycoplasmataceae": {
+          "Metamycoplasma": {
+            "Metamycoplasma arthritidis": {}
+          }
+        }
+      },
+      "Tenericutes bacterium zrk29": {}
+    },
+    "Myxococcota": {
+      "Myxococcia": {
+        "Myxococcales": {
+          "Myxococcaceae": {
+            "Myxococcus": {
+              "Myxococcus xanthus": {}
+            }
+          }
+        }
+      }
+    },
+    "Bacteroidota": {
+      "Bacteroidia": {
+        "Bacteroidales": {
+          "Bacteroidaceae": {
+            "Bacteroides": {
+              "Bacteroides fragilis": {},
+              "Bacteroides intestinalis": {},
+              "Bacteroides xylanisolvens": {},
+              "Bacteroides thetaiotaomicron": {},
+              "Bacteroides sp.": {},
+              "Bacteroides uniformis": {},
+              "Bacteroides ovatus": {},
+              "Bacteroides caccae": {},
+              "Bacteroides salyersiae": {},
+              "Bacteroides cellulosilyticus": {}
+            },
+            "Phocaeicola": {
+              "Phocaeicola dorei": {},
+              "Phocaeicola massiliensis": {},
+              "Phocaeicola vulgatus": {}
+            }
+          },
+          "Tannerellaceae": {
+            "Parabacteroides": {
+              "Parabacteroides distasonis": {},
+              "Parabacteroides merdae": {},
+              "Parabacteroides faecis": {}
+            }
+          },
+          "Candidatus Azobacteroides": {
+            "Candidatus Azobacteroides pseudotrichonymphae": {}
+          },
+          "Prevotellaceae": {
+            "Prevotella": {
+              "Prevotella sp.": {},
+              "Prevotella ruminicola": {}
+            }
+          },
+          "Rikenellaceae": {
+            "Alistipes": {
+              "Alistipes shahii": {},
+              "Alistipes sp.": {}
+            }
+          }
+        }
+      },
+      "Flavobacteriia": {
+        "Flavobacteriales": {
+          "Flavobacteriaceae": {
+            "Flavobacterium": {
+              "Flavobacterium sp.": {},
+              "Flavobacterium columnare": {},
+              "Flavobacterium sp. B183": {},
+              "Flavobacterium psychrophilum": {},
+              "Flavobacterium sp. LMO8": {},
+              "Flavobacterium sp. LMO9": {},
+              "Flavobacterium sp. LMO6": {}
+            },
+            "Cellulophaga": {
+              "Cellulophaga baltica": {},
+              "Cellulophaga sp. MM#3": {},
+              "Cellulophaga sp. NN014847": {},
+              "Cellulophaga sp. HaHa_2_95": {},
+              "Cellulophaga sp. HaHa_2_1": {},
+              "Cellulophaga sp. HaHaR_3_176": {},
+              "Cellulophaga sp.": {}
+            },
+            "Croceibacter": {
+              "Croceibacter atlanticus": {}
+            },
+            "Tenacibaculum": {
+              "Tenacibaculum sp.": {},
+              "Tenacibaculum maritimum": {},
+              "Tenacibaculum geojense": {},
+              "Tenacibaculum sp. AHE14PA": {},
+              "Tenacibaculum sp. AHE15PA": {}
+            },
+            "Polaribacter": {
+              "Polaribacter sp. R2A056_3_33": {},
+              "Polaribacter sp. HaHaR_3_91": {},
+              "Polaribacter sp. AHE13PA": {}
+            },
+            "Olleya": {
+              "Olleya sp. HaHaR_3_96": {}
+            },
+            "Maribacter": {
+              "Maribacter forsetii": {}
+            },
+            "Winogradskyella": {
+              "Winogradskyella sp. HaHa_3_26": {}
+            }
+          },
+          "Weeksellaceae": {
+            "Chryseobacterium": {
+              "Chryseobacterium sp.": {},
+              "Chryseobacterium indologenes": {}
+            },
+            "Riemerella": {
+              "Riemerella anatipestifer": {}
+            },
+            "Weeksella": {
+              "Weeksella massiliensis": {}
+            },
+            "Elizabethkingia": {
+              "Elizabethkingia anophelis": {}
+            }
+          }
+        }
+      }
+    },
+    "Bdellovibrionota": {
+      "Bdellovibrionia": {
+        "Bdellovibrionales": {
+          "Pseudobdellovibrionaceae": {
+            "Bdellovibrio": {
+              "Bdellovibrio bacteriovorus": {}
+            }
+          }
+        }
+      },
+      "Oligoflexia": {
+        "Silvanigrellales": {
+          "Silvanigrellaceae": {
+            "Silvanigrella": {
+              "Silvanigrella aquatica": {}
+            }
+          }
+        }
+      }
+    },
+    "Chlamydiota": {
+      "Chlamydiia": {
+        "Chlamydiales": {
+          "Chlamydiaceae": {
+            "Chlamydia": {
+              "Chlamydia pecorum": {},
+              "Chlamydia psittaci": {},
+              "Chlamydia abortus": {},
+              "Chlamydia felis": {},
+              "Chlamydia caviae": {},
+              "Chlamydia pneumoniae": {}
+            }
+          }
+        }
+      }
+    },
+    "Cyanobacteriota": {
+      "Cyanophyceae": {
+        "Synechococcales": {
+          "Synechococcaceae": {
+            "Synechococcus": {
+              "Synechococcus sp.": {},
+              "Synechococcus sp. WH 7803": {},
+              "Synechococcus elongatus": {},
+              "Synechococcus sp. CB0101": {},
+              "Synechococcus sp. WH 6501": {},
+              "Synechococcus sp. WH 8017": {},
+              "Synechococcus sp. WH 8101": {},
+              "Synechococcus sp. WH 8012": {},
+              "Synechococcus sp. WH 8109": {},
+              "Synechococcus sp. WH 8018": {},
+              "Synechococcus sp. CB0204": {},
+              "Synechococcus sp. CB0202": {},
+              "Synechococcus sp. CB0208": {},
+              "Synechococcus sp. CB0201": {},
+              "Synechococcus sp. CC9605": {},
+              "Synechococcus sp. WH 7805": {},
+              "Synechococcus sp. TCC793": {},
+              "Synechococcus sp. CBW1002": {},
+              "Synechococcus sp. MW02": {},
+              "Synechococcus sp. MIT S9220": {},
+              "Synechococcus sp. SR-C1": {},
+              "Synechococcus sp. PCC 7002": {},
+              "Synechococcus sp. RCC307": {},
+              "Synechococcus sp. CC9902": {},
+              "Synechococcus sp. BL107": {},
+              "Synechococcus sp. KFM001": {},
+              "Synechococcus sp. WH 8007": {}
+            }
+          },
+          "Prochlorococcaceae": {
+            "Prochlorococcus": {
+              "Prochlorococcus sp.": {},
+              "Prochlorococcus marinus": {}
+            },
+            "Parasynechococcus": {
+              "Parasynechococcus marenigrum": {}
+            }
+          },
+          "Acaryochloridaceae": {
+            "Acaryochloris": {
+              "Acaryochloris marina": {}
+            }
+          }
+        },
+        "Chroococcales": {
+          "Microcystaceae": {
+            "Microcystis": {
+              "Microcystis aeruginosa": {},
+              "Microcystis elabens": {},
+              "Microcystis sp.": {}
+            }
+          },
+          "Geminocystaceae": {
+            "Cyanobacterium": {
+              "Cyanobacterium stanieri": {}
+            }
+          }
+        },
+        "Pseudanabaenales": {
+          "Leptolyngbyaceae": {
+            "Leptolyngbya": {
+              "Leptolyngbya foveolarum": {},
+              "Leptolyngbya boryana": {}
+            },
+            "Arthronema": {
+              "Arthronema africanum": {}
+            }
+          },
+          "Pseudanabaenaceae": {
+            "Pseudanabaena": {
+              "Pseudanabaena sp.": {}
+            }
+          }
+        },
+        "Oscillatoriales": {
+          "Microcoleaceae": {
+            "Planktothrix": {
+              "Planktothrix agardhii": {}
+            }
+          },
+          "Oscillatoriaceae": {
+            "Phormidium": {
+              "Phormidium sp. MIS-PhA": {},
+              "Phormidium tenue": {}
+            },
+            "Plectonema": {
+              "Plectonema sp.": {}
+            }
+          }
+        },
+        "Nostocales": {
+          "Nostocaceae": {
+            "Trichormus": {
+              "Trichormus variabilis": {}
+            },
+            "Nostoc": {
+              "Nostoc sp. PCC 7120 = FACHB-418": {},
+              "Nostoc sp.": {}
+            }
+          },
+          "Aphanizomenonaceae": {
+            "Nodularia": {
+              "Nodularia sp. (in: cyanobacteria)": {},
+              "Nodularia spumigena": {}
+            },
+            "Aphanizomenon": {
+              "Aphanizomenon flos-aquae": {}
+            },
+            "Cylindrospermopsis": {
+              "Cylindrospermopsis raciborskii": {}
+            }
+          },
+          "Hapalosiphonaceae": {
+            "Mastigocladus": {
+              "Mastigocladus sp.": {}
+            }
+          }
+        }
+      }
+    },
+    "Thermodesulfobacteriota": {
+      "Desulfuromonadia": {
+        "Geobacterales": {
+          "Geobacteraceae": {
+            "Geobacter": {
+              "Geobacter sp.": {}
+            }
+          }
+        }
+      },
+      "Desulfovibrionia": {
+        "Desulfovibrionales": {
+          "Desulfovibrionaceae": {
+            "Desulfovibrio": {
+              "Desulfovibrio desulfuricans": {}
+            }
+          }
+        }
+      }
+    },
+    "Aquificota": {
+      "Aquificae": {
+        "Aquificales": {
+          "Aquificaceae": {
+            "Thermocrinis": {
+              "Thermocrinis sp.": {}
+            }
+          }
+        }
+      }
+    },
+    "Deinococcota": {
+      "Deinococci": {
+        "Thermales": {
+          "Thermaceae": {
+            "Thermus": {
+              "Thermus thermophilus": {},
+              "Thermus sp. TC4": {},
+              "Thermus sp.": {},
+              "Thermus scotoductus": {}
+            },
+            "Meiothermus": {
+              "Meiothermus sp.": {}
+            }
+          }
+        }
+      }
+    },
+    "Campylobacterota": {
+      "Epsilonproteobacteria": {
+        "Campylobacterales": {
+          "Helicobacteraceae": {
+            "Helicobacter": {
+              "Helicobacter pylori": {}
+            }
+          },
+          "Campylobacteraceae": {
+            "Campylobacter": {
+              "Campylobacter jejuni": {},
+              "Campylobacter coli": {},
+              "Campylobacter sp.": {}
+            }
+          }
+        },
+        "Nautiliales": {
+          "Nitratiruptoraceae": {
+            "Nitratiruptor": {
+              "Nitratiruptor sp. SB155-2": {},
+              "Nitratiruptor sp. YY08-10": {},
+              "Nitratiruptor sp. YY08-14": {},
+              "Nitratiruptor sp. YY08-13": {},
+              "Nitratiruptor sp. YY08-26": {}
+            }
+          }
+        }
+      }
+    },
+    "Rhodothermota": {
+      "Rhodothermia": {
+        "Rhodothermales": {
+          "Salisaetaceae": {
+            "Salisaeta": {
+              "Salisaeta sp. SP9-1": {}
+            }
+          },
+          "Salinibacteraceae": {
+            "Salinibacter": {
+              "Salinibacter ruber": {}
+            }
+          },
+          "Rhodothermaceae": {
+            "Rhodothermus": {
+              "Rhodothermus marinus": {}
+            }
+          }
+        }
+      }
+    },
+    "Thermotogota": {
+      "Thermotogae": {
+        "Petrotogales": {
+          "Petrotogaceae": {
+            "Marinitoga": {
+              "Marinitoga camini": {}
+            }
+          }
+        }
+      }
+    },
+    "Fusobacteriota": {
+      "Fusobacteriia": {
+        "Fusobacteriales": {
+          "Fusobacteriaceae": {
+            "Fusobacterium": {
+              "Fusobacterium nucleatum": {},
+              "Fusobacterium polymorphum": {}
+            }
+          }
+        }
+      }
+    },
+    "Spirochaetota": {
+      "Spirochaetia": {
+        "Leptospirales": {
+          "Leptospiraceae": {
+            "Leptospira": {
+              "Leptospira inadai": {},
+              "Leptospira biflexa": {},
+              "Leptospira alstonii": {},
+              "Leptospira broomii": {},
+              "Leptospira kmetyi": {},
+              "Leptospira noguchii": {}
+            }
+          }
+        },
+        "Spirochaetales": {
+          "Treponemataceae": {
+            "Treponema": {
+              "Treponema denticola": {}
+            }
+          }
+        },
+        "Brachyspirales": {
+          "Brachyspiraceae": {
+            "Brachyspira": {
+              "Brachyspira hyodysenteriae": {}
+            }
+          }
+        }
+      }
+    },
+    "Chlorobiota": {
+      "Chlorobiia": {
+        "Chlorobiales": {
+          "Chlorobiaceae": {
+            "Chlorobiaceae bacterium": {}
+          }
+        }
+      }
+    },
+    "Verrucomicrobiota": {
+      "Verrucomicrobiae": {
+        "Verrucomicrobiales": {
+          "Akkermansiaceae": {
+            "Akkermansia": {
+              "Akkermansia muciniphila": {}
+            }
+          }
+        }
+      }
+    },
+    "Lentisphaerota": {
+      "Lentisphaerae bacterium WC36": {}
+    },
+    "Planctomycetota": {
+      "Planctomycetes bacterium ZRK32": {}
+    },
+    "bacterium": {},
+    "unidentified bacterial endosymbiont": {}
+  },
+  "Archaea": {
+    "Euryarchaeota": {
+      "Halobacteria": {
+        "Haloferacales": {
+          "Halorubraceae": {
+            "Halorubrum": {
+              "Halorubrum coriense": {},
+              "Halorubrum saccharovorum": {},
+              "Halorubrum sp. PV6": {},
+              "Halorubrum sp.": {},
+              "Halorubrum sp. SS5-4": {},
+              "Halorubrum sp. SP3-3": {},
+              "Halorubrum sp. SS7-4": {},
+              "Halorubrum sodomense": {},
+              "Halorubrum sp. s5a-3": {},
+              "Halorubrum sp. LN27": {},
+              "Halorubrum sp. B2-2": {},
+              "Halorubrum lacusprofundi": {}
+            }
+          },
+          "Haloferacaceae": {
+            "Halogeometricum": {
+              "Halogeometricum sp. CG-9": {}
+            },
+            "Halogranum": {
+              "Halogranum sp. SS5-1": {}
+            },
+            "Haloferax": {
+              "Haloferax sp.": {},
+              "Haloferax gibbonsii": {},
+              "Haloferax volcanii": {},
+              "Haloferax lucentense": {}
+            }
+          }
+        },
+        "Natrialbales": {
+          "Natrialbaceae": {
+            "Natrialba": {
+              "Natrialba magadii": {}
+            },
+            "Natrinema": {
+              "Natrinema thermotolerans": {},
+              "Natrinema versiforme": {},
+              "Natrinema sp. J7-1": {}
+            }
+          }
+        },
+        "Halobacteriales": {
+          "Halobacteriaceae": {
+            "Halobacterium": {
+              "Halobacterium salinarum": {}
+            }
+          },
+          "Haloarculaceae": {
+            "Haloarcula": {
+              "Haloarcula hispanica": {},
+              "Haloarcula vallismortis": {},
+              "Haloarcula sinaiiensis": {},
+              "Haloarcula californiae": {},
+              "Haloarcula japonica": {},
+              "Haloarcula sp. SS8-5": {}
+            }
+          }
+        }
+      },
+      "Methanobacteria": {
+        "Methanobacteriales": {
+          "Methanobacteriaceae": {
+            "Methanothermobacter": {
+              "Methanothermobacter marburgensis": {},
+              "Methanothermobacter thermautotrophicus": {},
+              "Methanothermobacter wolfeii": {}
+            },
+            "Methanobacterium": {
+              "Methanobacterium formicicum": {}
+            }
+          }
+        }
+      },
+      "Thermococci": {
+        "Thermococcales": {
+          "Thermococcaceae": {
+            "Pyrococcus": {
+              "Pyrococcus abyssi": {}
+            },
+            "Thermococcus": {
+              "Thermococcus sp.": {},
+              "Thermococcus prieurii": {}
+            }
+          }
+        }
+      },
+      "Candidatus Nanohaloarchaea": {
+        "Nanohaloarchaea archaeon AB578-D14": {}
+      },
+      "Methanomicrobia": {
+        "Methanosarcinales": {
+          "Methanosarcinaceae": {
+            "Methanosarcina": {
+              "Methanosarcina sp.": {}
+            }
+          }
+        },
+        "Methanomicrobiales": {
+          "Methanomicrobiaceae": {
+            "Methanoculleus": {
+              "Methanoculleus bourgensis": {}
+            }
+          }
+        }
+      },
+      "Methanococci": {
+        "Methanococcales": {
+          "Methanocaldococcaceae": {
+            "Methanocaldococcus": {
+              "Methanocaldococcus fervens": {}
+            }
+          }
+        }
+      }
+    },
+    "Thermoproteota": {
+      "Thermoprotei": {
+        "Sulfolobales": {
+          "Sulfolobaceae": {
+            "Sulfolobus": {
+              "Sulfolobus islandicus": {},
+              "Sulfolobus sp.": {},
+              "Sulfolobus tengchongensis": {},
+              "Sulfolobus sp. G4ST-T-11": {},
+              "Sulfolobus sp. G4T-1": {},
+              "Sulfolobus sp. G4ST-2": {},
+              "Sulfolobus sp. A20": {},
+              "Sulfolobus beitou": {},
+              "Sulfolobus sp. E11-6": {}
+            },
+            "Acidianus": {
+              "Acidianus hospitalis": {},
+              "Acidianus infernus": {},
+              "Acidianus pozzuoliensis": {},
+              "Acidianus sp. F28": {},
+              "Acidianus convivator": {},
+              "Acidianus uzoniensis": {},
+              "Acidianus brierleyi": {},
+              "Acidianus sp.": {},
+              "Acidianus sp. Acii26": {},
+              "Acidianus sp. Acii25": {}
+            },
+            "Saccharolobus": {
+              "Saccharolobus solfataricus": {},
+              "Saccharolobus shibatae": {}
+            },
+            "Metallosphaera": {
+              "Metallosphaera sedula": {},
+              "Metallosphaera sp.": {},
+              "Metallosphaera prunae": {}
+            }
+          }
+        },
+        "Desulfurococcales": {
+          "Desulfurococcaceae": {
+            "Aeropyrum": {
+              "Aeropyrum pernix": {},
+              "Aeropyrum camini": {}
+            }
+          }
+        },
+        "Thermoproteales": {
+          "Thermoproteaceae": {
+            "Pyrobaculum": {
+              "Pyrobaculum sp.": {},
+              "Pyrobaculum arsenaticum": {},
+              "Pyrobaculum oguniense": {},
+              "Pyrobaculum sp. D11": {}
+            },
+            "Thermoproteus": {
+              "Thermoproteus sp. CP80": {},
+              "Thermoproteus tenax": {}
+            }
+          }
+        }
+      }
+    },
+    "Nitrososphaerota": {
+      "Nitrososphaeria": {
+        "Nitrososphaerales": {
+          "Nitrososphaeraceae": {
+            "Nitrososphaera": {
+              "Nitrososphaera viennensis": {}
+            }
+          }
+        },
+        "Nitrosopumilales": {
+          "Nitrosopumilaceae": {
+            "Nitrosopumilus": {
+              "Nitrosopumilus sp.": {}
+            }
+          }
+        }
+      }
+    },
+    "uncultured archaeon": {},
+    "Candidatus Lokiarchaeota": {
+      "Candidatus Lokiarchaeota archaeon": {}
+    },
+    "Asgard group archaeon": {},
+    "Candidatus Odinarchaeota": {
+      "Candidatus Odinarchaeum": {
+        "Candidatus Odinarchaeum yellowstonii": {}
+      }
+    }
+  }
+}

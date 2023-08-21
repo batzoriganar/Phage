@@ -32,16 +32,16 @@ def source_parcer(depth, file_path):
             # phage_source_dict[r.annotations['source']] = None
             pass
 
-source_parcer(50000, file_path)
+source_parcer(500000, file_path)
 
 for i in phage_source_dict:
     print(f"{i} is isolated from:  {phage_source_dict[i]}")
 '''SEQ Objects have: 'annotations', 'count', 'dbxrefs', 'description', 'features', 'format', 'id', 'islower', 'isupper',
  'letter_annotations', 'lower', 'name', 'reverse_complement', 'seq', 'translate', 'upper'''
-
-with open("processed_phage_data.json", "w") as outfile:
-    json_object = json.dumps(phage_source_dict, indent=4)
-    outfile.write(json_object)
+print(len(phage_source_dict))
+# with open("processed_phage_data.json", "w") as outfile:
+#     json_object = json.dumps(phage_source_dict, indent=4)
+#     outfile.write(json_object)
 # def get_cds_feature_with_qualifier_value(seq_record, name, value):
 #     """Function to look for CDS feature by annotation value in sequence record.
 #
