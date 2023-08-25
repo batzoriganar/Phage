@@ -1,4 +1,5 @@
-name,species_taxid,index,isolation_source,287,562,1772,1773
+,species_taxid,prev_index,isolation_source,287,562,1772,1773
+0,,,,Pseudomonas aeruginosa,Escherichia coli,Mycolicibacterium smegmatis,Mycobacterium tuberculosis
 Mycobacterium phage Legendre,1327951,1020,the material of sarcoid patients,0,0,1,1
 Mycobacterium phage Clark,1327955,1023,the material of sarcoid patients,0,0,1,1
 Mycobacterium phage DNAIII,1327950,1019,the material of sarcoid patients,0,0,1,1

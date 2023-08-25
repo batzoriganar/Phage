@@ -1,0 +1,371 @@
+,Unnamed: 0,Category,Strains,taxid
+0,0,Soil & _water_,Xanthomonas oryzae,347
+1,0,Soil & _water_,Pseudomonas syringae,317
+2,0,Soil & _water_,Pseudomonas fluorescens,294
+3,0,Soil & _water_,Bacillus subtilis,1423
+4,0,Soil & _water_,Gordonia rubripertincta,36822
+5,0,Soil & _water_,Pseudomonas sp.,306
+6,0,Soil & _water_,Pseudomonas syringae group genomosp. 3,251701
+7,0,Soil & _water_,Pectobacterium carotovorum,554
+8,0,Soil & _water_,Pseudomonas putida,303
+9,0,Soil & _water_,Xanthomonas vesicatoria,56460
+10,0,Soil & _water_,Xanthomonas campestris,339
+11,0,Soil & _water_,Staphylococcus aureus,1280
+12,0,Soil & _water_,Mycolicibacterium smegmatis,1772
+13,0,Soil & _water_,Ralstonia solanacearum,305
+14,0,Soil & _water_,Klebsiella pneumoniae,573
+15,0,Soil & _water_,Erwinia amylovora,552
+16,0,Soil & _water_,Xanthomonas sp.,29446
+17,0,Soil & _water_,Burkholderia contaminans,488447
+18,0,Soil & _water_,Pseudomonas aeruginosa,287
+19,0,Soil & _water_,Stenotrophomonas maltophilia,40324
+20,0,Soil & _water_,Shigella flexneri,623
+21,0,Soil & _water_,Bacillus cereus,1396
+22,0,Soil & _water_,Salmonella enterica,28901
+23,0,Soil & _water_,Paeniglutamicibacter sulfureus,43666
+24,0,Soil & _water_,Escherichia coli,562
+25,0,Soil & _water_,Pectobacterium atrosepticum,29471
+26,1,Soil & Seawater,Pseudomonas aeruginosa,287
+27,1,Soil & Seawater,Vibrio sp.,678
+28,1,Soil & Seawater,Klebsiella pneumoniae,573
+29,1,Soil & Seawater,Salmonella enterica,28901
+30,1,Soil & Seawater,Pseudomonas sp.,306
+31,2,Soil & Sewage,Vibrio sp.,678
+32,2,Soil & Sewage,Pseudomonas syringae,317
+33,2,Soil & Sewage,Pseudomonas fluorescens,294
+34,2,Soil & Sewage,Bacillus subtilis,1423
+35,2,Soil & Sewage,Gordonia rubripertincta,36822
+36,2,Soil & Sewage,Pseudomonas sp.,306
+37,2,Soil & Sewage,Pseudomonas syringae group genomosp. 3,251701
+38,2,Soil & Sewage,Pectobacterium carotovorum,554
+39,2,Soil & Sewage,Xanthomonas translucens,343
+40,2,Soil & Sewage,Pseudomonas putida,303
+41,2,Soil & Sewage,Parabacteroides merdae,46503
+42,2,Soil & Sewage,Burkholderia gladioli,28095
+43,2,Soil & Sewage,Clostridioides difficile,1496
+44,2,Soil & Sewage,Staphylococcus aureus,1280
+45,2,Soil & Sewage,Parabacteroides distasonis,823
+46,2,Soil & Sewage,Mycolicibacterium smegmatis,1772
+47,2,Soil & Sewage,Klebsiella pneumoniae,573
+48,2,Soil & Sewage,Staphylococcus sp.,29387
+49,2,Soil & Sewage,Bacillus anthracis,1392
+50,2,Soil & Sewage,Bacillus sp. (in: firmicutes),1409
+51,2,Soil & Sewage,Prescottella equi,43767
+52,2,Soil & Sewage,Pseudomonas aeruginosa,287
+53,2,Soil & Sewage,Stenotrophomonas maltophilia,40324
+54,2,Soil & Sewage,Shigella flexneri,623
+55,2,Soil & Sewage,Shigella dysenteriae,622
+56,2,Soil & Sewage,Bacillus cereus,1396
+57,2,Soil & Sewage,Bacillus thuringiensis,1428
+58,2,Soil & Sewage,Salmonella enterica,28901
+59,2,Soil & Sewage,Escherichia coli,562
+60,2,Soil & Sewage,Pectobacterium atrosepticum,29471
+61,2,Soil & Sewage,Xanthomonas sp.,29446
+62,3,Soil & Miscellaneous,Vibrio sp.,678
+63,3,Soil & Miscellaneous,Xanthomonas oryzae,347
+64,3,Soil & Miscellaneous,Pseudomonas syringae,317
+65,3,Soil & Miscellaneous,Pseudomonas fluorescens,294
+66,3,Soil & Miscellaneous,Bacillus subtilis,1423
+67,3,Soil & Miscellaneous,Microbacterium foliorum,104336
+68,3,Soil & Miscellaneous,Ralstonia pseudosolanacearum,1310165
+69,3,Soil & Miscellaneous,Gordonia rubripertincta,36822
+70,3,Soil & Miscellaneous,Myxococcus xanthus,34
+71,3,Soil & Miscellaneous,Paenibacillus larvae,1464
+72,3,Soil & Miscellaneous,Gordonia terrae,2055
+73,3,Soil & Miscellaneous,Pseudomonas sp.,306
+74,3,Soil & Miscellaneous,Pseudomonas syringae group genomosp. 3,251701
+75,3,Soil & Miscellaneous,Pectobacterium carotovorum,554
+76,3,Soil & Miscellaneous,Bacillus amyloliquefaciens,1390
+77,3,Soil & Miscellaneous,Arthrobacter globiformis,1665
+78,3,Soil & Miscellaneous,Pseudomonas putida,303
+79,3,Soil & Miscellaneous,Burkholderia pseudomallei,28450
+80,3,Soil & Miscellaneous,Parabacteroides merdae,46503
+81,3,Soil & Miscellaneous,Xanthomonas campestris,339
+82,3,Soil & Miscellaneous,Clostridioides difficile,1496
+83,3,Soil & Miscellaneous,Staphylococcus aureus,1280
+84,3,Soil & Miscellaneous,Parabacteroides distasonis,823
+85,3,Soil & Miscellaneous,Ralstonia solanacearum,305
+86,3,Soil & Miscellaneous,Mycolicibacterium smegmatis,1772
+87,3,Soil & Miscellaneous,Klebsiella pneumoniae,573
+88,3,Soil & Miscellaneous,Bacillus pumilus,1408
+89,3,Soil & Miscellaneous,Erwinia pyrifoliae,79967
+90,3,Soil & Miscellaneous,Erwinia amylovora,552
+91,3,Soil & Miscellaneous,Staphylococcus sp.,29387
+92,3,Soil & Miscellaneous,Bacillus anthracis,1392
+93,3,Soil & Miscellaneous,Brevibacillus laterosporus,1465
+94,3,Soil & Miscellaneous,Parageobacillus thermoglucosidasius,1426
+95,3,Soil & Miscellaneous,Bacillus sp. (in: firmicutes),1409
+96,3,Soil & Miscellaneous,Pseudomonas aeruginosa,287
+97,3,Soil & Miscellaneous,Stenotrophomonas maltophilia,40324
+98,3,Soil & Miscellaneous,Shigella flexneri,623
+99,3,Soil & Miscellaneous,Bacillus cereus,1396
+100,3,Soil & Miscellaneous,Mycobacterium tuberculosis,1773
+101,3,Soil & Miscellaneous,Bacillus thuringiensis,1428
+102,3,Soil & Miscellaneous,Salmonella enterica,28901
+103,3,Soil & Miscellaneous,Pantoea agglomerans,549
+104,3,Soil & Miscellaneous,Escherichia coli,562
+105,3,Soil & Miscellaneous,Pectobacterium atrosepticum,29471
+106,3,Soil & Miscellaneous,Xanthomonas euvesicatoria,456327
+107,3,Soil & Miscellaneous,Xanthomonas sp.,29446
+108,4,Soil & Patient + some strain,Pseudomonas aeruginosa,287
+109,4,Soil & Patient + some strain,Mycolicibacterium smegmatis,1772
+110,4,Soil & Patient + some strain,Escherichia coli,562
+111,4,Soil & Patient + some strain,Mycobacterium tuberculosis,1773
+112,5,_water_ & Seawater,Parasynechococcus marenigrum,2881428
+113,5,_water_ & Seawater,Prochlorococcus marinus,1219
+114,5,_water_ & Seawater,Erythrobacter litoralis,39960
+115,5,_water_ & Seawater,Aeromonas salmonicida,645
+116,5,_water_ & Seawater,Pseudomonas sp.,306
+117,5,_water_ & Seawater,Vibrio alginolyticus,663
+118,5,_water_ & Seawater,Paracoccus sp. (in: a-proteobacteria),267
+119,5,_water_ & Seawater,Achromobacter xylosoxidans,85698
+120,5,_water_ & Seawater,Vibrio natriegens,691
+121,5,_water_ & Seawater,Synechococcus sp. WH 8109,166314
+122,5,_water_ & Seawater,Pseudoalteromonas sp.,53249
+123,5,_water_ & Seawater,Klebsiella pneumoniae,573
+124,5,_water_ & Seawater,Vibrio coralliilyticus,190893
+125,5,_water_ & Seawater,Synechococcus sp.,1131
+126,5,_water_ & Seawater,Vibrio parahaemolyticus,670
+127,5,_water_ & Seawater,Roseobacter denitrificans,2434
+128,5,_water_ & Seawater,Pseudomonas aeruginosa,287
+129,5,_water_ & Seawater,Synechococcus sp. CC9605,110662
+130,5,_water_ & Seawater,Synechococcus sp. WH 7803,32051
+131,5,_water_ & Seawater,Salmonella enterica,28901
+132,5,_water_ & Seawater,Enterococcus faecalis,1351
+133,5,_water_ & Seawater,Pseudoalteromonas marina,267375
+134,6,_water_ & Sewage,Aeromonas veronii,654
+135,6,_water_ & Sewage,Pseudomonas syringae,317
+136,6,_water_ & Sewage,Pseudomonas fluorescens,294
+137,6,_water_ & Sewage,Aeromonas salmonicida,645
+138,6,_water_ & Sewage,Bacillus subtilis,1423
+139,6,_water_ & Sewage,Serratia marcescens,615
+140,6,_water_ & Sewage,Gordonia rubripertincta,36822
+141,6,_water_ & Sewage,Staphylococcus capitis,29388
+142,6,_water_ & Sewage,Pectobacterium brasiliense,180957
+143,6,_water_ & Sewage,Pseudomonas sp.,306
+144,6,_water_ & Sewage,Salmonella sp.,599
+145,6,_water_ & Sewage,Vibrio alginolyticus,663
+146,6,_water_ & Sewage,Pseudomonas syringae group genomosp. 3,251701
+147,6,_water_ & Sewage,Pectobacterium carotovorum,554
+148,6,_water_ & Sewage,Achromobacter xylosoxidans,85698
+149,6,_water_ & Sewage,Vibrio harveyi,669
+150,6,_water_ & Sewage,Vibrio cholerae,666
+151,6,_water_ & Sewage,Pectobacterium polaris,2042057
+152,6,_water_ & Sewage,Pseudomonas putida,303
+153,6,_water_ & Sewage,Dickeya dianthicola,204039
+154,6,_water_ & Sewage,Pantoea dispersa,59814
+155,6,_water_ & Sewage,Yersinia enterocolitica,630
+156,6,_water_ & Sewage,Gordonia malaquae,410332
+157,6,_water_ & Sewage,Cronobacter dublinensis,413497
+158,6,_water_ & Sewage,Klebsiella michiganensis,1134687
+159,6,_water_ & Sewage,Pantoea deleyi,470932
+160,6,_water_ & Sewage,Escherichia sp.,1884818
+161,6,_water_ & Sewage,Staphylococcus aureus,1280
+162,6,_water_ & Sewage,Mycolicibacterium smegmatis,1772
+163,6,_water_ & Sewage,Klebsiella pneumoniae,573
+164,6,_water_ & Sewage,Vibrio parahaemolyticus,670
+165,6,_water_ & Sewage,Klebsiella variicola,244366
+166,6,_water_ & Sewage,Acinetobacter baumannii,470
+167,6,_water_ & Sewage,Shigella sonnei,624
+168,6,_water_ & Sewage,Dickeya solani,1089444
+169,6,_water_ & Sewage,Enterobacter cloacae,550
+170,6,_water_ & Sewage,Cronobacter sakazakii,28141
+171,6,_water_ & Sewage,Pseudomonas aeruginosa,287
+172,6,_water_ & Sewage,Stenotrophomonas maltophilia,40324
+173,6,_water_ & Sewage,Sphaerotilus natans,34103
+174,6,_water_ & Sewage,Shigella flexneri,623
+175,6,_water_ & Sewage,Clostridium perfringens,1502
+176,6,_water_ & Sewage,Bacillus cereus,1396
+177,6,_water_ & Sewage,Salmonella enterica,28901
+178,6,_water_ & Sewage,Enterococcus faecalis,1351
+179,6,_water_ & Sewage,Escherichia coli,562
+180,6,_water_ & Sewage,Aeromonas hydrophila,644
+181,6,_water_ & Sewage,Enterococcus sp.,35783
+182,6,_water_ & Sewage,Pectobacterium atrosepticum,29471
+183,6,_water_ & Sewage,Rhodobacter capsulatus,1061
+184,6,_water_ & Sewage,Xanthomonas sp.,29446
+185,6,_water_ & Sewage,Enterobacter hormaechei,158836
+186,7,_water_ & Miscellaneous,Xanthomonas oryzae,347
+187,7,_water_ & Miscellaneous,Pseudanabaena sp.,1153
+188,7,_water_ & Miscellaneous,Pseudomonas syringae,317
+189,7,_water_ & Miscellaneous,Parasynechococcus marenigrum,2881428
+190,7,_water_ & Miscellaneous,Prochlorococcus marinus,1219
+191,7,_water_ & Miscellaneous,Pseudomonas fluorescens,294
+192,7,_water_ & Miscellaneous,Aeromonas salmonicida,645
+193,7,_water_ & Miscellaneous,Bacillus subtilis,1423
+194,7,_water_ & Miscellaneous,Gordonia rubripertincta,36822
+195,7,_water_ & Miscellaneous,Pectobacterium brasiliense,180957
+196,7,_water_ & Miscellaneous,Pseudomonas sp.,306
+197,7,_water_ & Miscellaneous,Bordetella avium,521
+198,7,_water_ & Miscellaneous,Salmonella sp.,599
+199,7,_water_ & Miscellaneous,Vibrio alginolyticus,663
+200,7,_water_ & Miscellaneous,Pseudomonas syringae group genomosp. 3,251701
+201,7,_water_ & Miscellaneous,Cronobacter sp.,1888169
+202,7,_water_ & Miscellaneous,Synechococcus sp. CB0101,232348
+203,7,_water_ & Miscellaneous,Pectobacterium carotovorum,554
+204,7,_water_ & Miscellaneous,Vibrio harveyi,669
+205,7,_water_ & Miscellaneous,Vibrio cholerae,666
+206,7,_water_ & Miscellaneous,Pseudomonas putida,303
+207,7,_water_ & Miscellaneous,Thermus thermophilus,274
+208,7,_water_ & Miscellaneous,Yersinia enterocolitica,630
+209,7,_water_ & Miscellaneous,Vibrio natriegens,691
+210,7,_water_ & Miscellaneous,Xanthomonas campestris,339
+211,7,_water_ & Miscellaneous,Pseudoalteromonas sp.,53249
+212,7,_water_ & Miscellaneous,Pantoea deleyi,470932
+213,7,_water_ & Miscellaneous,Synechococcus sp. WH 8109,166314
+214,7,_water_ & Miscellaneous,Escherichia sp.,1884818
+215,7,_water_ & Miscellaneous,Microcystis aeruginosa,1126
+216,7,_water_ & Miscellaneous,Staphylococcus aureus,1280
+217,7,_water_ & Miscellaneous,Mycolicibacterium smegmatis,1772
+218,7,_water_ & Miscellaneous,Ralstonia solanacearum,305
+219,7,_water_ & Miscellaneous,Lactococcus garvieae,1363
+220,7,_water_ & Miscellaneous,Caulobacter vibrioides,155892
+221,7,_water_ & Miscellaneous,Klebsiella pneumoniae,573
+222,7,_water_ & Miscellaneous,Synechococcus sp.,1131
+223,7,_water_ & Miscellaneous,Vibrio parahaemolyticus,670
+224,7,_water_ & Miscellaneous,Klebsiella variicola,244366
+225,7,_water_ & Miscellaneous,Aeromonas sp.,647
+226,7,_water_ & Miscellaneous,Erwinia amylovora,552
+227,7,_water_ & Miscellaneous,Acinetobacter baumannii,470
+228,7,_water_ & Miscellaneous,Vibrio metschnikovii,28172
+229,7,_water_ & Miscellaneous,Enterobacter cloacae,550
+230,7,_water_ & Miscellaneous,Cronobacter sakazakii,28141
+231,7,_water_ & Miscellaneous,Pseudomonas aeruginosa,287
+232,7,_water_ & Miscellaneous,Stenotrophomonas maltophilia,40324
+233,7,_water_ & Miscellaneous,Vibrio anguillarum,55601
+234,7,_water_ & Miscellaneous,Synechococcus sp. CC9605,110662
+235,7,_water_ & Miscellaneous,Shigella flexneri,623
+236,7,_water_ & Miscellaneous,Synechococcus sp. WH 7803,32051
+237,7,_water_ & Miscellaneous,Curtobacterium sp.,1869344
+238,7,_water_ & Miscellaneous,Clostridium perfringens,1502
+239,7,_water_ & Miscellaneous,Bacillus cereus,1396
+240,7,_water_ & Miscellaneous,Salmonella enterica,28901
+241,7,_water_ & Miscellaneous,Hafnia paralvei,546367
+242,7,_water_ & Miscellaneous,Enterococcus faecalis,1351
+243,7,_water_ & Miscellaneous,Escherichia coli,562
+244,7,_water_ & Miscellaneous,Aeromonas hydrophila,644
+245,7,_water_ & Miscellaneous,Enterococcus sp.,35783
+246,7,_water_ & Miscellaneous,Pectobacterium atrosepticum,29471
+247,7,_water_ & Miscellaneous,Rhodobacter capsulatus,1061
+248,7,_water_ & Miscellaneous,Leptolyngbya boryana,1184
+249,7,_water_ & Miscellaneous,Cylindrospermopsis raciborskii,77022
+250,7,_water_ & Miscellaneous,Xanthomonas sp.,29446
+251,7,_water_ & Miscellaneous,Enterobacter hormaechei,158836
+252,8,_water_ & Patient + some strain,Pseudomonas aeruginosa,287
+253,8,_water_ & Patient + some strain,Mycolicibacterium smegmatis,1772
+254,8,_water_ & Patient + some strain,Escherichia coli,562
+255,9,Seawater & Sewage,Pseudomonas aeruginosa,287
+256,9,Seawater & Sewage,Vibrio sp.,678
+257,9,Seawater & Sewage,Achromobacter xylosoxidans,85698
+258,9,Seawater & Sewage,Klebsiella pneumoniae,573
+259,9,Seawater & Sewage,Salmonella enterica,28901
+260,9,Seawater & Sewage,Vibrio parahaemolyticus,670
+261,9,Seawater & Sewage,Enterococcus faecalis,1351
+262,9,Seawater & Sewage,Aeromonas salmonicida,645
+263,9,Seawater & Sewage,Pseudomonas sp.,306
+264,9,Seawater & Sewage,Vibrio alginolyticus,663
+265,10,Seawater & Miscellaneous,Vibrio sp.,678
+266,10,Seawater & Miscellaneous,Parasynechococcus marenigrum,2881428
+267,10,Seawater & Miscellaneous,Prochlorococcus marinus,1219
+268,10,Seawater & Miscellaneous,Aeromonas salmonicida,645
+269,10,Seawater & Miscellaneous,Cellulophaga sp. MM#3,192170
+270,10,Seawater & Miscellaneous,Pseudomonas sp.,306
+271,10,Seawater & Miscellaneous,Vibrio alginolyticus,663
+272,10,Seawater & Miscellaneous,Vibrio natriegens,691
+273,10,Seawater & Miscellaneous,Synechococcus sp. WH 8109,166314
+274,10,Seawater & Miscellaneous,Pseudoalteromonas sp.,53249
+275,10,Seawater & Miscellaneous,Vibrio crassostreae,246167
+276,10,Seawater & Miscellaneous,Vibrio campbellii,680
+277,10,Seawater & Miscellaneous,Klebsiella pneumoniae,573
+278,10,Seawater & Miscellaneous,Candidatus Pelagibacter ubique,198252
+279,10,Seawater & Miscellaneous,Stutzerimonas stutzeri,316
+280,10,Seawater & Miscellaneous,Synechococcus sp.,1131
+281,10,Seawater & Miscellaneous,Vibrio parahaemolyticus,670
+282,10,Seawater & Miscellaneous,Synechococcus sp. WH 8101,59932
+283,10,Seawater & Miscellaneous,Pseudomonas aeruginosa,287
+284,10,Seawater & Miscellaneous,Synechococcus sp. CC9605,110662
+285,10,Seawater & Miscellaneous,Synechococcus sp. WH 7803,32051
+286,10,Seawater & Miscellaneous,Aliivibrio fischeri,668
+287,10,Seawater & Miscellaneous,Salmonella enterica,28901
+288,10,Seawater & Miscellaneous,Enterococcus faecalis,1351
+289,10,Seawater & Miscellaneous,Cellulophaga baltica,76594
+290,10,Seawater & Miscellaneous,Vibrio splendidus,29497
+291,11,Seawater & Patient + some strain,Pseudomonas aeruginosa,287
+292,12,Sewage & Miscellaneous,Vibrio sp.,678
+293,12,Sewage & Miscellaneous,Pseudomonas syringae,317
+294,12,Sewage & Miscellaneous,Serratia sp. (in: enterobacteria),616
+295,12,Sewage & Miscellaneous,Klebsiella quasipneumoniae,1463165
+296,12,Sewage & Miscellaneous,Pseudomonas fluorescens,294
+297,12,Sewage & Miscellaneous,Aeromonas salmonicida,645
+298,12,Sewage & Miscellaneous,Bacillus subtilis,1423
+299,12,Sewage & Miscellaneous,Escherichia fergusonii,564
+300,12,Sewage & Miscellaneous,Gordonia rubripertincta,36822
+301,12,Sewage & Miscellaneous,Citrobacter braakii,57706
+302,12,Sewage & Miscellaneous,Pectobacterium brasiliense,180957
+303,12,Sewage & Miscellaneous,Pseudomonas sp.,306
+304,12,Sewage & Miscellaneous,Salmonella sp.,599
+305,12,Sewage & Miscellaneous,Klebsiella oxytoca,571
+306,12,Sewage & Miscellaneous,Klebsiella sp.,576
+307,12,Sewage & Miscellaneous,Vibrio alginolyticus,663
+308,12,Sewage & Miscellaneous,Listeria monocytogenes,1639
+309,12,Sewage & Miscellaneous,Pseudomonas syringae group genomosp. 3,251701
+310,12,Sewage & Miscellaneous,Pectobacterium carotovorum,554
+311,12,Sewage & Miscellaneous,Vibrio harveyi,669
+312,12,Sewage & Miscellaneous,Vibrio cholerae,666
+313,12,Sewage & Miscellaneous,Pseudomonas putida,303
+314,12,Sewage & Miscellaneous,Staphylococcus pseudintermedius,283734
+315,12,Sewage & Miscellaneous,Enterococcus faecium,1352
+316,12,Sewage & Miscellaneous,Yersinia enterocolitica,630
+317,12,Sewage & Miscellaneous,Bacteroides uniformis,820
+318,12,Sewage & Miscellaneous,Bacteroides intestinalis,329854
+319,12,Sewage & Miscellaneous,Bacteroides thetaiotaomicron,818
+320,12,Sewage & Miscellaneous,Parabacteroides merdae,46503
+321,12,Sewage & Miscellaneous,Streptococcus agalactiae,1311
+322,12,Sewage & Miscellaneous,Pantoea deleyi,470932
+323,12,Sewage & Miscellaneous,Escherichia sp.,1884818
+324,12,Sewage & Miscellaneous,Clostridioides difficile,1496
+325,12,Sewage & Miscellaneous,Cutibacterium acnes,1747
+326,12,Sewage & Miscellaneous,Campylobacter jejuni,197
+327,12,Sewage & Miscellaneous,Streptococcus equinus,1335
+328,12,Sewage & Miscellaneous,Staphylococcus aureus,1280
+329,12,Sewage & Miscellaneous,Parabacteroides distasonis,823
+330,12,Sewage & Miscellaneous,Mycolicibacterium smegmatis,1772
+331,12,Sewage & Miscellaneous,Klebsiella pneumoniae,573
+332,12,Sewage & Miscellaneous,Vibrio parahaemolyticus,670
+333,12,Sewage & Miscellaneous,Klebsiella variicola,244366
+334,12,Sewage & Miscellaneous,Acinetobacter baumannii,470
+335,12,Sewage & Miscellaneous,Staphylococcus sp.,29387
+336,12,Sewage & Miscellaneous,Bacillus anthracis,1392
+337,12,Sewage & Miscellaneous,Brochothrix thermosphacta,2756
+338,12,Sewage & Miscellaneous,Enterobacter cloacae,550
+339,12,Sewage & Miscellaneous,Cronobacter sakazakii,28141
+340,12,Sewage & Miscellaneous,Bacillus sp. (in: firmicutes),1409
+341,12,Sewage & Miscellaneous,Pseudomonas aeruginosa,287
+342,12,Sewage & Miscellaneous,Stenotrophomonas maltophilia,40324
+343,12,Sewage & Miscellaneous,Shigella flexneri,623
+344,12,Sewage & Miscellaneous,Proteus mirabilis,584
+345,12,Sewage & Miscellaneous,Bacillus cereus,1396
+346,12,Sewage & Miscellaneous,Clostridium perfringens,1502
+347,12,Sewage & Miscellaneous,Bacillus thuringiensis,1428
+348,12,Sewage & Miscellaneous,Salmonella enterica,28901
+349,12,Sewage & Miscellaneous,Nocardia transvalensis,37333
+350,12,Sewage & Miscellaneous,Enterococcus faecalis,1351
+351,12,Sewage & Miscellaneous,Pasteurella multocida,747
+352,12,Sewage & Miscellaneous,Klebsiella aerogenes,548
+353,12,Sewage & Miscellaneous,Aeromonas hydrophila,644
+354,12,Sewage & Miscellaneous,Enterococcus sp.,35783
+355,12,Sewage & Miscellaneous,Staphylococcus epidermidis,1282
+356,12,Sewage & Miscellaneous,Escherichia coli,562
+357,12,Sewage & Miscellaneous,Rhodobacter capsulatus,1061
+358,12,Sewage & Miscellaneous,Pectobacterium atrosepticum,29471
+359,12,Sewage & Miscellaneous,Xanthomonas sp.,29446
+360,12,Sewage & Miscellaneous,Xanthomonas albilineans,29447
+361,12,Sewage & Miscellaneous,Streptococcus pyogenes,1314
+362,12,Sewage & Miscellaneous,Enterobacter hormaechei,158836
+363,13,Sewage & Patient + some strain,Pseudomonas aeruginosa,287
+364,13,Sewage & Patient + some strain,Mycolicibacterium smegmatis,1772
+365,13,Sewage & Patient + some strain,Escherichia coli,562
+366,14,Miscellaneous & Patient + some strain,Pseudomonas aeruginosa,287
+367,14,Miscellaneous & Patient + some strain,Mycolicibacterium smegmatis,1772
+368,14,Miscellaneous & Patient + some strain,Escherichia coli,562
+369,14,Miscellaneous & Patient + some strain,Mycobacterium tuberculosis,1773

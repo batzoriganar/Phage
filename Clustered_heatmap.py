@@ -15,8 +15,8 @@ df_exploded = Data.explode('hosts')
 with open('ClusteredCorrectPooled.json', 'r') as datafile:
     clusters = json.load(datafile)
 
-
-
+hostsource={}
+hostsourcename={}
 
 def plotter(clusterid, clustermethod='ward', subset=False):
     calledcluster=clusters[clusterid]
@@ -39,14 +39,14 @@ def plotter(clusterid, clustermethod='ward', subset=False):
     h = sns.clustermap( data= binary_matrix,
                     cmap=cmap, method='ward')
     h.fig.suptitle(f'{(clusterid.capitalize())}')
-    # plt.show()
+    plt.show()
     #Clustermap returns this Object which has the built-in calls for row/col order
     rowinfo=h.dendrogram_row.reordered_ind
 
     columninfo= h.dendrogram_col.reordered_ind
 
     # can be uncommented to save the figure
-    plt.savefig(f"D:\MEDICAL BIOTECHNOLOGY MSC\Internship\Phage\ClustMAP\{clusterid}.pdf")
+    # plt.savefig(f"D:\MEDICAL BIOTECHNOLOGY MSC\Internship\Phage\ClustMAP\{clusterid}.pdf")
 
     #calling original names of the phage and host by indexing with available info
     columnlist= [binary_matrix.columns[i] for i in columninfo]
@@ -68,13 +68,27 @@ def plotter(clusterid, clustermethod='ward', subset=False):
     extradf = extradf.drop_duplicates(subset='name')
     extradf.dropna(axis = 'index')
     extradf = (extradf.dropna(axis = 'index'))
-    print(extradf)
     #Assigning taxids, source, and original index to the BINARY into CSV
     ### THIS HAS TO BE CROSS-CHECKED
     species_taxid=(list(extradf.species_taxid))
 
     originalindex=list( extradf.index)
     isolationsource=list()
+    hosttaxids = {'species_taxid':None, "prev_index":None, 'isolation_source':None}
+
+    ##
+    global hostsource, hostsourcename
+    hostsource[f'{(clusterid.capitalize())}'] = columnlist
+    # hostsource[f'{(clusterid.capitalize())}'] = [hosttaxid[str(i)] for i in columnlist]
+    ###
+    with open('host_taxid_name.json', 'r') as datafile:
+        hosttaxid = json.load(datafile)
+        hostsourcename[f'{(clusterid.capitalize())}'] = [hosttaxid[str(i)] for i in columnlist]
+        for taxid in columnlist:
+
+            hosttaxids[taxid] = [hosttaxid[str(taxid)]]
+
+    hosttaxids = (pd.DataFrame(hosttaxids))
     with open('IsolationSource.json', 'r') as datafile:
         data = json.load(datafile)
 
@@ -84,14 +98,18 @@ def plotter(clusterid, clustermethod='ward', subset=False):
 
         # Step 1: Data Preprocessing (convert to lowercase)
         terms = [term.lower() for term in terms]
-        # print(data[str(id)])
+
         for id in species_taxid:
-            isolationsource.append(data[str(id)])
-    newdf.insert(0, 'index', originalindex, True)
-    newdf.insert(0, 'species_taxid',species_taxid, True)
-    newdf.insert(2, 'isolation_source', isolationsource, True)
+            try:
+                isolationsource.append(data[str(id)])
+            except KeyError:
+                isolationsource.append("NO INFO")
+    newdf.insert(0, 'isolation_source', isolationsource, True)
+    newdf.insert(0, 'prev_index', originalindex, True)
+    newdf.insert(0, 'species_taxid', species_taxid, True)
+    # .drop('hosts', axis=1)
+    newdf = pd.concat([hosttaxids,newdf],ignore_index=False)
     # newdf.set_index('index')
-    # print(originalindex)
     return newdf
 
 def save_dftocsv(pddf, saveloc):
@@ -102,19 +120,18 @@ def save_dftocsv(pddf, saveloc):
 toolong=[]
 valuerror= {}
 
-# for i in clusters:
-#     try:
-#         newcluster= plotter(i)
-#         save_dftocsv(newcluster, f'D:\MEDICAL BIOTECHNOLOGY MSC\Internship\Phage\ClustMAP\{i}.csv')
-#     except RecursionError:
-#         toolong.append(i)
-#         continue
-#     except ValueError as inf:
-#         valuerror[i]=inf
-#         continue
+for i in clusters:
+    try:
+        newcluster= plotter(i)
+        # save_dftocsv(newcluster, f'D:\MEDICAL BIOTECHNOLOGY MSC\Internship\Phage\ClustMAP\{i}.csv')
+    except RecursionError:
+        toolong.append(i)
+        continue
+    except ValueError as inf:
+        valuerror[i]=inf
+        continue
 print("toolong", toolong )
 print("value error", valuerror)
-
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 5)
 pd.set_option('display.width', 100)

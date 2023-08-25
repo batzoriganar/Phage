@@ -45,7 +45,7 @@ def hostcladeplot(subset, typeoflist, Title=''):
     # Plotting #
     ############
 
-    df_subset= filtered_df.iloc[:1500]
+    df_subset= filtered_df
     # print(df_subset)
 
     binary_matrix = pd.crosstab(df_subset['name'],df_subset['hosts'])
@@ -94,6 +94,14 @@ def hostcladeplot(subset, typeoflist, Title=''):
 
     originalindex = list(extradf.index)
     isolationsource = list()
+    hosttaxids = {'species_taxid':None, "prev_index":None, 'isolation_source':None}
+    with open('host_taxid_name.json', 'r') as datafile:
+        hosttaxid = json.load(datafile)
+        for taxid in columnlist:
+            print(taxid)
+            hosttaxids[taxid] = [hosttaxid[str(taxid)]]
+    hosttaxids = (pd.DataFrame(hosttaxids))
+    print(hosttaxids)
     with open('IsolationSource.json', 'r') as datafile:
         data = json.load(datafile)
 
@@ -108,13 +116,36 @@ def hostcladeplot(subset, typeoflist, Title=''):
             try:
                 isolationsource.append(data[str(id)])
             except KeyError:
-                isolationsource.append("n/a")
-    newdf.insert(0, 'index', originalindex, True)
+                isolationsource.append("NO INFO")
+    newdf.insert(0, 'isolation_source', isolationsource, True)
+    newdf.insert(0, 'prev_index', originalindex, True)
     newdf.insert(0, 'species_taxid', species_taxid, True)
-    newdf.insert(2, 'isolation_source', isolationsource, True)
+    # .drop('hosts', axis=1)
+    newdf = pd.concat([hosttaxids,newdf],ignore_index=False)
     # newdf.set_index('index')
     # print(originalindex)
     return newdf
+    # with open('IsolationSource.json', 'r') as datafile:
+    #     data = json.load(datafile)
+    #
+    #     # Extract terms from the data
+    #     terms = list(data.values())
+    #     ids = list(data.keys())
+    #
+    #     # Step 1: Data Preprocessing (convert to lowercase)
+    #     terms = [term.lower() for term in terms]
+    #     # print(data[str(id)])
+    #     for id in species_taxid:
+    #         try:
+    #             isolationsource.append(data[str(id)])
+    #         except KeyError:
+    #             isolationsource.append("n/a")
+    # newdf.insert(0, 'index', originalindex, True)
+    # newdf.insert(0, 'species_taxid', species_taxid, True)
+    # newdf.insert(2, 'isolation_source', isolationsource, True)
+    # # newdf.set_index('index')
+    # # print(originalindex)
+    # return newdf
 def save_dftocsv(pddf, saveloc):
 
     filepath = Path(saveloc)
@@ -159,7 +190,7 @@ calllist = (list(multihoster.keys()))
 # path="D:\MEDICAL BIOTECHNOLOGY MSC\Internship\Phage\HostClust\MultiHost.csv"
 # save_dftocsv(s,path)
 
-#
-# hostplot = hostcladeplot( hosts_with_multiple_phages, typeoflist='host', Title="Hosts with multiple phages")
-# path="D:\MEDICAL BIOTECHNOLOGY MSC\Internship\Phage\HostClust\MultiPhage.csv"
-# save_dftocsv(hostplot,path)
+# #
+hostplot = hostcladeplot( hosts_with_multiple_phages, typeoflist='host', Title="Hosts with multiple phages")
+path= "/HostClust/data_binary.csv"
+save_dftocsv(hostplot,path)
