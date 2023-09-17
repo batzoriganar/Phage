@@ -119,19 +119,22 @@ def save_dftocsv(pddf, saveloc):
     pddf.to_csv(filepath)
 toolong=[]
 valuerror= {}
-
-for i in clusters:
-    try:
-        newcluster= plotter(i)
-        # save_dftocsv(newcluster, f'D:\MEDICAL BIOTECHNOLOGY MSC\Internship\Phage\ClustMAP\{i}.csv')
-    except RecursionError:
-        toolong.append(i)
-        continue
-    except ValueError as inf:
-        valuerror[i]=inf
-        continue
+#
+# for i in clusters:
+#     try:
+#         newcluster= plotter(i)
+#         # print(newcluster)
+#         # save_dftocsv(newcluster, f'D:\MEDICAL BIOTECHNOLOGY MSC\Internship\Phage\ClustMAP\{i}.csv')
+#     except RecursionError:
+#         toolong.append(i)
+#         continue
+#     except ValueError as inf:
+#         valuerror[i]=inf
+#         continue
 print("toolong", toolong )
 print("value error", valuerror)
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 5)
 pd.set_option('display.width', 100)
+
+print(clusters)
