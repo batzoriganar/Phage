@@ -47,7 +47,7 @@ print('+this is the list containging both "appearing" and non appearing ')
 print((listtocheck))
 
 import pickle
-with open("newlist15410", "wb") as fp:   #Pickling
+with open("phagesource", "wb") as fp:   #Pickling
     pickle.dump(listtocheck, fp)
 
 """
